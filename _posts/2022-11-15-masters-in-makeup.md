@@ -3,7 +3,7 @@ layout: post
 title:  "Masters in Makeup"
 author: "Sophia Brunet"
 categories: [ misc ]
-image: /assets/images/posts/none/2.jpg
+image: ./assets/images/posts/none/2.jpg
 imagecred: ""
 tags: [ featured ]
 ---

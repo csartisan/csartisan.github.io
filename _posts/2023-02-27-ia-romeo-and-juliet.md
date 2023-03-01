@@ -3,7 +3,7 @@ layout: post
 title:  "IA Romeo & Juliet"
 author: "Octavia Roberts"
 categories: [ productions ]
-image: assets/images/posts/romeo-and-juliet.jpg
+image: ./assets/images/posts/romeo-and-juliet.jpg
 imagecred: "Kathryn Mueller"
 tags: [sticky]
 ---

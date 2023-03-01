@@ -3,7 +3,7 @@ layout: post
 title:  "The Drowsy Chaperone"
 author: "Sevana Zadoian"
 categories: [ productions ]
-image: /assets/images/posts/the-drowsy-chaperone.jpg
+image: ./assets/images/posts/the-drowsy-chaperone.jpg
 imagecred: "Sevana Zadoian"
 tags: []
 ---

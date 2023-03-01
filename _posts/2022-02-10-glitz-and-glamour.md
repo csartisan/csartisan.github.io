@@ -4,7 +4,7 @@ layout: post
 title:  "Glitz & Glamour — Old Hollywood & Winter Formal"
 author: "Sophia Brunet"
 categories: [ events ]
-image: /assets/images/posts/glitz-and-glamour.jpg
+image: ./assets/images/posts/glitz-and-glamour.jpg
 imagecred: ""
 tags: []
 ---

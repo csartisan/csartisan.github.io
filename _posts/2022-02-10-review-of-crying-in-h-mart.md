@@ -3,7 +3,7 @@ layout: post
 title:  "Review of Crying in H-Mart"
 author: "Ivy Kim"
 categories: [ reviews ]
-image: /assets/images/posts/crying-in-h-mart.jpg
+image: ./assets/images/posts/crying-in-h-mart.jpg
 imagecred: "The New Yorker"
 tags: []
 ---

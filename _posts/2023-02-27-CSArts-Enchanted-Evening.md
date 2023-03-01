@@ -3,7 +3,7 @@ layout: post
 title:  "CSArts' Enchanted Evening"
 author: "Sophia Brunet"
 categories: [ events ]
-image: assets/images/posts/none/3.jpg
+image: ./assets/images/posts/none/3.jpg
 imagecred: ""
 tags: [sticky]
 ---
