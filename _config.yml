@@ -18,8 +18,7 @@ plugins:
   - jekyll-seo-tag
   # ↑ installed by template
   # ↓ installed by user
-  - jekyll-admin  
-  - jekyll-archives   
+  - jekyll-admin   
 
 # Defaults
 defaults:
