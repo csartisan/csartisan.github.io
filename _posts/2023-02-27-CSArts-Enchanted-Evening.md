@@ -5,7 +5,7 @@ author: "Sophia Brunet"
 categories: [ events ]
 image: ./assets/images/posts/none/10.jpg
 imagecred: ""
-tags: [sticky]
+tags: [ sticky ]
 ---
 
 As we settle into the second semester of the school year, it's time to celebrate! On February 4th, CSArts students gathered together to dance with their friends at Winter Formal, held at the Springfield Banquet Hall. The theme of the night was Enchanted Evening, and many dressed in their finest dresses and suits, some with florals, lace, and greens and purples to match the theme.
