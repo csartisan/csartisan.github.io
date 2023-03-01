@@ -18,4 +18,5 @@ group :jekyll_plugins do
     # ↑ installed by template
     # ↓ installed by user
     gem 'jekyll-admin'
+    gem 'jekyll-archives'
 end
