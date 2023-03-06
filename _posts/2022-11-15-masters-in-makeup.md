@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Masters in Makeup"
-author: "sophiabrunet"
+author: "Sophia Brunet"
 categories: [ misc ]
-image: /assets/images/posts/missing.png
-tags: []
+image: ./assets/images/posts/none/2.jpg
+imagecred: ""
+tags: [ featured ]
 ---
 
 Makeup is an artform that allows us to express ourselves via colors and patterns, textures and techniques. At CSArts makeup is exactly that, an art form. However, with the rise of assignments and homework, it has grown to be an afterthought, something that is much more optional. With that being said, it is still a prominent part of students’ lives.

@@ -7,9 +7,14 @@
 	   {{ post.excerpt  | strip_html | strip_newlines | truncate: 186}}
 	</p>
 	<small class="d-block text-muted">
-		In <span class="catlist">
+		<!--In <span class="catlist">
 		{% for category in post.categories %}
 		<a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+		{% endfor %}
+		</span>-->
+		<span class="catlist">
+		{% for author in post.author %}
+		<a class="text-capitalize text-muted smoothscroll">{{ author }}</a><span class="sep">, </span>
 		{% endfor %}
 		</span>
 	</small>

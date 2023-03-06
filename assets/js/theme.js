@@ -134,3 +134,21 @@ $(function() {
     }
   }
 });
+
+// Randomize Sticky BG Color
+
+var colors = ['--sticky1', '--sticky2', '--sticky3'];
+var random_color = colors[Math.floor(Math.random() * colors.length)];
+
+// Get the root element
+// var r = document.querySelector(':root');
+
+// Create a function for getting a variable value
+// function myFunction_get() {
+    // Get the styles (properties and values) for the root
+    //var rs = getComputedStyle(r);}
+// Create a function for setting a variable value
+//function myFunction_set() {
+    // Set the value of variable --blue to another value (in this case "lightblue")
+    //r.style.setProperty('--bg-lightblue', '--sticky1');}
+document.getElementById('jumbotron').style.backgroundColor = random_color;

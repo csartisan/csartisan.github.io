@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "The History of Valentines Day"
-author: "sevanazadoian"
-categories: [ misc ]
-image: assets/images/posts/the-history-of-valentines-day.jpg.avif
+author: "Sevana Zadoian"
+categories: [ essays ]
+image: ./assets/images/posts/the-history-of-valentines-day.jpg
+imagecred: "Shutterstock"
 tags: []
 ---
 

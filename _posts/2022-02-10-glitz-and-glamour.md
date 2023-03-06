@@ -1,9 +1,11 @@
 ---
 layout: post
+[//]: # Title & Author, try to  use [""] quotations around text. (optional, just formality)
 title:  "Glitz & Glamour — Old Hollywood & Winter Formal"
-author: "sophiabrunet"
+author: "Sophia Brunet"
 categories: [ events ]
-image: /assets/images/posts/glitz-and-glamour.png
+image: ./assets/images/posts/glitz-and-glamour.jpg
+imagecred: ""
 tags: []
 ---
 

@@ -16,11 +16,17 @@ layout: default
 					</p>
 					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
 					<div class="d-flex align-items-center">
-                        {% if author.avatar %}
+                        <!--{% if author.avatar %}
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
-                        {% endif %}
-						<small class="ml-3"> {{ author.name }} <span> <!--<a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span> -->
-                            <span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
+                        {% endif %}-->
+						<small class="ml-3"> {{ page.author }} <span> <!--<a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span> -->
+							<!--Two if gates means that the intro text wont show for neither blank nor [""]-->
+							{% if page.imagecred %}
+							{% if page.imagecred != ""%}
+                            <span class="text-muted d-block mt-1"> Photo: {{ page.imagecred }} </span>
+							{% endif %}
+							{% endif %}
+							<span class="text-muted d-block mt-1">{{ page.date | date: '%b %d, %Y' }} · {% include meta-read-time.html %}</span>
 						</small>
 					</div>
 				</div>
@@ -108,13 +114,13 @@ layout: default
              <!-- Author Box -->
                 {% if page.author %}				
 				<div class="row mt-5">
-					<div class="col-md-2 align-self-center">
+					<!--<div class="col-md-2 align-self-center">
                          {% if author.avatar %}
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="90"/>
                         {% endif %} 
-					</div>
+					</div>-->
 					<div class="col-md-10">		
-                        <h5 class="font-weight-bold">Written by {{ author.name }} {% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>
+                        <h5 class="font-weight-bold">Written by {{ page.author }} <!--{% if author.twitter %}<span><a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-2">Follow</a></span>{% endif %}</h5>-->
 						{{ author.bio }}					
 					</div>
 				</div>				

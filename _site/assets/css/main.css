@@ -38,6 +38,9 @@
   --indigo: #502c6c;
   --orange: #fbb500;
   --lightblue: #e8f3ec;
+  --sticky1: #DFF8EB;
+  --sticky2: #E5EBEA;
+  --sticky3: #F6F7EB;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -107,7 +110,7 @@ h3, h4, h5, h6 {
 p {
   font-family: "Atkinson Hyperlegible", sans-serif;
   margin-top: 0;
-  margin-bottom: 1rem; }
+  margin-bottom: 0.5rem; }
 
 abbr[title],
 abbr[data-original-title] {
@@ -5165,7 +5168,7 @@ button.bg-orange:focus {
   background-color: #c89000 !important; }
 
 .bg-lightblue {
-  background-color: #e8f3ec !important; }
+  background-color: #e2e6ed !important; }
 
 a.bg-lightblue:hover, a.bg-lightblue:focus,
 button.bg-lightblue:hover,
@@ -5299,7 +5302,13 @@ button.bg-lightblue:focus {
   display: inline-block !important; }
 
 .d-block {
-  display: block !important; }
+  display: block !important; 
+}
+
+.d-block-sticky {
+  display: block !important; 
+  margin-bottom: 0.5rem;
+}
 
 .d-table {
   display: table !important; }
