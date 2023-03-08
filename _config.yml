@@ -1,6 +1,6 @@
 # Site
 name: 'CSArtisan'
-description: 'Student ran and written, rebranded.'
+description: 'The official home of the CSArts Newspaper'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '' 
