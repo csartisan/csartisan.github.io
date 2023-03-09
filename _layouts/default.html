@@ -62,19 +62,19 @@
         <ul class="mb-0"></ul>
     </div>
 
-    <!--
+    {% if site.bannercontent %}
     <div class="bg-lightblue border-top p-2 text-muted small">
             <div class="container">
             <div align="center" class="justify-content-between">
                 <div>
-                    <span>Submit your Sugar Pine submissions</span>
-                    <a href="/404.html">here</a>
-                    <span>before March 1st!</span>
+                    <a href={{ site.bannerlink }}>{{ site.bannercontent }}</a>
                 </div>
             </div>
             </div>
-    </div><br/>
-    -->
+    </div>
+    <br/>
+    {% endif %}
+
     <!-- Content -->
     <main role="main" class="site-content">
         {{ content }}
