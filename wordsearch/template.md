@@ -1,10 +1,11 @@
 ---
 layout: wordsearch
 [//]: # Title & Author, try to  use [""] quotations around text. (optional, just formality)
-title:  "Family Guy"
-author: "Octavia Roberts"
+title:  "Template"
+author: "First Last"
 
+[//]: # Right now, the entire link needs to be used. Make sure it is an EMBED. Please only use wordsearchlabs.
 wordsearchID: "https://wordsearchlabs.com/embed/171330"
-date: 
+date: 2023-02-14
 ---
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
