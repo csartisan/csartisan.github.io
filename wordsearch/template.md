@@ -3,6 +3,7 @@ layout: wordsearch
 [//]: # Title & Author, try to  use [""] quotations around text. (optional, just formality)
 title:  "Template"
 author: "First Last"
+game: wordsearch
 
 [//]: # Right now, the entire link needs to be used. Make sure it is an EMBED. Please only use wordsearchlabs.
 wordsearchID: "https://wordsearchlabs.com/embed/171330"
