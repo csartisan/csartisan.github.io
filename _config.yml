@@ -1,7 +1,7 @@
 # Site
 name: 'CSArtisan'
-description: 'The official home of the CSArts Newspaper'
-logo: 'assets/images/logo.png'
+description: 'Explore CSArts related news stories.'
+logo: 'assets/images/thumbnail.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '' 
 email: 'csartsnewspaper@gmail.com'
