@@ -6,7 +6,7 @@ author: "Sophia Brunet"
 [//]: # every post needs a category, if there isnt an apparent one, use [misc].
 categories: [ essays ]
 [//]: # if there is no photo to add, instead use a gradient from [none] folder by picking a number from 1-10. (all gradients are .jpg)
-image: ./assets/images/posts/none/1.jpg
+image: ./assets/images/posts/the-shamrock-saint.jpg
 imagecred: "Octavia Roberts"
 [//]: # see "Tags" for usable tags.
 tags: []
