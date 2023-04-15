@@ -664,12 +664,13 @@ article {
     line-height: 1.15;
     color: #222222;
 }
-article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
-	margin-bottom:2rem;
+article p,article pre,article figure,article img,article iframed,article embed {
+	margin-bottom:1.2rem;
 }
 article blockquote {
 	padding-left:40px;
 	margin-left:0px;
+	margin-top:1rem !important;
 	font-style:italic;
 	position:relative;
 }
