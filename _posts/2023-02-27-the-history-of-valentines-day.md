@@ -5,7 +5,7 @@ author: "Sevana Zadoian"
 categories: [ essays ]
 image: ./assets/images/posts/the-history-of-valentines-day.jpg
 imagecred: "Shutterstock"
-tags: []
+tags: [featured]
 ---
 
 Between the kisses and candy hearts, Valentine’s Day is a celebration of the patron saint of beekeepers, epilepsy, and of course, lovers. Valentine’s Day is a commemoration of the bravery of a man who dedicated his life to nurturing and strengthening the love two people have for one another.

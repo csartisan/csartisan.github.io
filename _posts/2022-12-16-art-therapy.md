@@ -9,7 +9,7 @@ categories: [ essays ]
 image: ./assets/images/posts/art-therapy.jpeg
 imagecred: "Trauma and Beyond Center"
 [//]: # see "Tags" for usable tags.
-tags: [ featured ]
+tags: []
 ---
 
 When imagining a professional conference, one usually pictures executives talking jargon in their crisp power suits of navy-blue and perfectly polished shoes, examining graphs and statistics of some really important things. But at this conference, there are no stoic business associates discussing forecasts and analyses. Instead, I see eclectic fashion, colorful glasses, big tote bags, and warm smiles.This, is the American Art Therapy Association’s (AATA) annual conference. But what is art therapy? According to AATA, “Art therapy is an integrative mental health and human services profession that enriches the lives of individuals, families, and communities through active artmaking, creative process, applied psychological theory, and human experience within a psychotherapeutic relationship.” That’s a lot, but it essentially means that art can heal everyone. Mid-November, I had the opportunity of attending AATA’s 53rd annual conference in Minneapolis. As a student who attends an art high school, exploring different art careers alongside my peers can be challenging. I interviewed various successful art therapists at the conference asking what their journey was like to gain inspiration for not only myself, but for other interested creative minds. 
