@@ -6,8 +6,8 @@ author: "Stephanie Zurita & Leaf Barnett"
 [//]: # every post needs a category, if there isnt an apparent one, use [misc].
 categories: [ reviews ]
 [//]: # if there is no photo to add, instead use a gradient from [none] folder by picking a number from 1-10. (all gradients are .jpg)
-image: ./assets/images/posts/none/1.jpg
-imagecred: ""
+image: ./assets/images/posts/wendell-wild.jpg
+imagecred: "The New York Times"
 [//]: # see "Tags" for usable tags.
 tags: []
 ---
