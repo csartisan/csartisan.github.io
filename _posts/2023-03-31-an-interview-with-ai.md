@@ -4,7 +4,7 @@ layout: post
 title:  "An Interview with AI"
 author: "Sidney Tsai"
 [//]: # every post needs a category, if there isnt an apparent one, use [misc].
-categories: [ interview ]
+categories: [ interviews ]
 [//]: # if there is no photo to add, instead use a gradient from [none] folder by picking a number from 1-10. (all gradients are .jpg)
 image: ./assets/images/posts/an-interview-with-ai.jpg
 imagecred: "Octavia Roberts"
