@@ -4,7 +4,7 @@ layout: post
 title:  "Covid Protocol Tightens"
 author: "Stephanie Zurita"
 [//]: # every post needs a category, if there isnt an apparent one, use [misc].
-categories: [ misc ]
+categories: [ updates ]
 [//]: # if there is no photo to add, instead use a gradient from [none] folder by picking a number from 1-10. (all gradients are .jpg)
 image: ./assets/images/posts/none/3.jpg
 imagecred: ""
