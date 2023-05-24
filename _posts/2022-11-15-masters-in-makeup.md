@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Masters in Makeup"
-author: "Sophia Brunet"
+author: "Luna Martinez-Granilo"
 categories: [ misc ]
 image: ./assets/images/posts/none/2.jpg
 imagecred: ""

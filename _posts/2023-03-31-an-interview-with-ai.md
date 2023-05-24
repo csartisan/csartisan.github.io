@@ -9,7 +9,7 @@ categories: [ misc ]
 image: ./assets/images/posts/an-interview-with-ai.jpg
 imagecred: "Octavia Roberts"
 [//]: # see "Tags" for usable tags.
-tags: [ sticky ]
+tags: [ ]
 ---
 ChatGPT has taken the world by storm. With over 100 million users worldwide within a week of its launch, nearing numbers that rival sites like Google and Youtube, it can feel like nearly everyone is on the edge of their seats asking - What’s next? To answer these concerns, we’ve asked for an exclusive interview with ChatGPT itself. Here it is:
 
