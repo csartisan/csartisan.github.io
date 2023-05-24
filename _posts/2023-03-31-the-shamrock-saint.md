@@ -9,7 +9,7 @@ categories: [ essays ]
 image: ./assets/images/posts/the-shamrock-saint.jpg
 imagecred: "Octavia Roberts"
 [//]: # see "Tags" for usable tags.
-tags: []
+tags: [featured]
 ---
 On March 17th, CSArts students wore their best green clothes to celebrate Saint Patrick’s Day. St. Patrick’s Day is celebrated annually on March 17, which is the death anniversary of Saint Patrick. But who is Saint Patrick, and why do we celebrate him?
 

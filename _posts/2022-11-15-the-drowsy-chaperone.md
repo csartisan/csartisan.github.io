@@ -5,7 +5,7 @@ author: "Sevana Zadoian"
 categories: [ productions ]
 image: ./assets/images/posts/the-drowsy-chaperone.jpg
 imagecred: "Sevana Zadoian"
-tags: [featured]
+tags: []
 ---
 
 Wedding bells rang, wedding bells chimed. In case you missed it, the Musical Theater Conservatory put on an early fall production of The Drowsy Chaperone. The show opened with a charming old man playing a record that ushered in a heartfelt comedy, titled The Drowsy Chaperone, about a beautiful actress quitting the glitz and glamour of show business to marry the man of her dreams. Behind the red curtain and bright lights, the relationships between the actors and their characters set the stage for a successful run. Many of the actors took it upon themselves to research their characters thoroughly in their own ways. Sawyer Valin (MT ‘23), who played The Man in the Chair, even contacted the actor who played his role in the original production of the show, Bob Martin, to flesh out his character as much as possible. Jolie Wang (MT ‘23), who played Mrs. Tottendale, the bubbly socialite with an enthusiasm for weddings, watched different videos of her Drowsy character. 

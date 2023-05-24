@@ -1,11 +1,15 @@
 ---
 layout: post
+[//]: # Title & Author, try to  use [""] quotations around text. (optional, just formality).
 title:  "Masters in Makeup"
 author: "Luna Martinez-Granilo"
+[//]: # every post needs a category, if there isnt an apparent one, use [misc].
 categories: [ misc ]
+[//]: # if there is no photo to add, instead use a gradient from [none] folder by picking a number from 1-10. (all gradients are .jpg)
 image: ./assets/images/posts/none/2.jpg
 imagecred: ""
-tags: [ featured ]
+[//]: # see "Tags" for usable tags.
+tags: []
 ---
 
 Makeup is an artform that allows us to express ourselves via colors and patterns, textures and techniques. At CSArts makeup is exactly that, an art form. However, with the rise of assignments and homework, it has grown to be an afterthought, something that is much more optional. With that being said, it is still a prominent part of students’ lives.

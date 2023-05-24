@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-21T10:01:31-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CSArtisan</title><subtitle>Explore CSArts related news stories.</subtitle><entry><title type="html">The Dubs and Snubs of the 95th Oscars</title><link href="http://localhost:4000/oscars-95/" rel="alternate" type="text/html" title="The Dubs and Snubs of the 95th Oscars" /><published>2023-03-31T00:00:00-07:00</published><updated>2023-03-31T00:00:00-07:00</updated><id>http://localhost:4000/oscars-95</id><content type="html" xml:base="http://localhost:4000/oscars-95/"><![CDATA[<p>At the 95th Academy Awards, Everything Everything All at Once lived up to its name. This genre-bending film took home seven Oscars, including Best Picture, Best Director, and several acting awards. Other successful movies were The Whale, which garnered two awards, one of which was for Brendon Fraser’s acting comeback, and All Quiet on the Western Front, which won many technical awards.</p>
+
+<p>CSArts students reflected on the record-breaking night and who they wished had won. Rhys Shaw (ACT ‘23) was overjoyed with Everything Everywhere All at Once’s win.</p>
+
+<blockquote>
+  <p>1,000% Everything Everywhere All at Once deserved to win. I think it’s a very unconventional movie. And it tells a story in a way that we’ve never seen before, that hasn’t been told that has been needing to be told. It’s been a great platform for much-needed Asian representation in mainstream media. It revived the career of Ke Huy Quan, who deserved it more than anybody else. It allowed Jamie Lee Curtis to go beyond the Halloween franchise and extend into what can be seen as more prestigious acting. And it cemented Michelle Yeoh as not only an Asian actress but also an important piece of American cinema,”</p>
+</blockquote>
+
+<p>he said.</p>
+
+<p>Samantha Thomas (CW ‘24) loved seeing Sarah Polley win for her adapted screenplay of Women Talking, but wished it got more Oscar love.</p>
+
+<blockquote>
+  <p>It has incredibly powerful performances that got zero attention from Rooney Mara, Jessie Buckley, Claire Foy — and I think that it’s a movie tackling such a difficult topic that typically in Hollywood is so exacerbated and exploitative. Also, the music was beautiful. The score heightens the experience of the movie and truly went out of its way to highlight the dread that these women feel, and I’m sad that it did not get nominated for Best Original Score,”</p>
+=======
 <?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-05-19T22:18:42-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">CSArtisan</title><subtitle>Explore CSArts related news stories.</subtitle><entry><title type="html">School Spirit Shenanigans</title><link href="http://localhost:4000/school-spirit-shenanigans/" rel="alternate" type="text/html" title="School Spirit Shenanigans" /><published>2023-05-19T00:00:00-07:00</published><updated>2023-05-19T00:00:00-07:00</updated><id>http://localhost:4000/school-spirit-shenanigans</id><content type="html" xml:base="http://localhost:4000/school-spirit-shenanigans/"><![CDATA[<p>From our haunting Halloweens to our crazy contests, there’s no denying that at CSArts, festivities are beyond fantastic. As we approach the end of the school year, there’s no better time than the present to reflect on the spirited shenanigans that CSArts gets up to when spirit days roll around.</p>
 
 <p>Halloween this year, as always, transformed our beloved campus into a perfectly spooky-themed hauntfest! With a wide assortment of spooky and hilarious costumes, it’s safe to say that CSArts goes above and beyond for Halloween.</p>
@@ -90,10 +106,14 @@
 
 <blockquote>
   <p>I think my favorite piece that I put up was one of the portraits I did of Patti Smith just because I got better at using gouache through it and I just liked the way it turned out,”</p>
+>>>>>>> main
 </blockquote>
 
 <p>she said.</p>
 
+<<<<<<< HEAD
+<p>There was a sense of CSArts students being more passionate about movies this year, compared to last year. That was reflected in the ratings as well. Ratings jumped from last year’s Oscars by 12% compared to last year’s dismal ratings. Nearly 20 million people tuned in from everywhere, all at once, to celebrate cinema on the big screen.</p>]]></content><author><name>Griffin Stenzel</name></author><category term="events" /><summary type="html"><![CDATA[At the 95th Academy Awards, Everything Everything All at Once lived up to its name. This genre-bending film took home seven Oscars, including Best Picture, Best Director, and several acting awards. Other successful movies were The Whale, which garnered two awards, one of which was for Brendon Fraser’s acting comeback, and All Quiet on the Western Front, which won many technical awards.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/oscars-95.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/oscars-95.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">An Interview with AI</title><link href="http://localhost:4000/an-interview-with-ai/" rel="alternate" type="text/html" title="An Interview with AI" /><published>2023-03-31T00:00:00-07:00</published><updated>2023-03-31T00:00:00-07:00</updated><id>http://localhost:4000/an-interview-with-ai</id><content type="html" xml:base="http://localhost:4000/an-interview-with-ai/"><![CDATA[<p>ChatGPT has taken the world by storm. With over 100 million users worldwide within a week of its launch, nearing numbers that rival sites like Google and Youtube, it can feel like nearly everyone is on the edge of their seats asking - What’s next? To answer these concerns, we’ve asked for an exclusive interview with ChatGPT itself. Here it is:</p>
+=======
 <p>Since this exhibition is the last show these seniors will experience in their high school career, there is an abundance of emotions felt for this event.</p>
 
 <blockquote>
@@ -217,6 +237,7 @@
 </blockquote>
 
 <p>Mr. Blaylock’s friendly presence as conservatory director is cherished by everyone, students and faculty alike. We all are thankful for the memories we have made with him and are so excited to see what’s in store for him in the future, whether here at CSArts or somewhere else entirely. Thanks for everything, Mr. Blaylock.</p>]]></content><author><name>Griffin Stenzel</name></author><category term="misc" /><summary type="html"><![CDATA[Mr. Blaylock embodies all that is good about our school. His positive energy, boundless enthusiasm, deep commitment to excellence, endless creativity, and heart-felt dedication to his students all reflect the best possible qualities of a director of a program at an arts school.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/none/5.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/none/5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">An Interview with AI</title><link href="http://localhost:4000/an-interview-with-ai/" rel="alternate" type="text/html" title="An Interview with AI" /><published>2023-03-31T00:00:00-07:00</published><updated>2023-03-31T00:00:00-07:00</updated><id>http://localhost:4000/an-interview-with-ai</id><content type="html" xml:base="http://localhost:4000/an-interview-with-ai/"><![CDATA[<p>ChatGPT has taken the world by storm. With over 100 million users worldwide within a week of its launch, nearing numbers that rival sites like Google and Youtube, it can feel like nearly everyone is on the edge of their seats asking - What’s next? To answer these concerns, we’ve asked for an exclusive interview with ChatGPT itself. Here it is:</p>
+>>>>>>> main
 
 <p><strong>ChatGPT:</strong> Hello, CSArtisan! I’m happy to assist with your interview. Please feel free to ask me any questions you have.</p>
 
@@ -300,4 +321,152 @@
   <p>Even though it took a lot of work and brainstorming, it was a lot of fun working on the showcase! We had to work from scratch, figuring out the theme we wanted, purchasing the items we needed, and contacting the teachers to collect artworks as well. We also had a deadline to meet, so it was even more pressuring. Although all the sweats and tears went into each individual tacky used to put up the paintings, the exhibition turned out wonderful! I learned how to work better as a team and problem-solve on the way, so the experience was worth it as well! My favorite part of the showcase was the main wall! My teammate created a beautiful font and I worked on laying out the paintings. I thought it turned out to be a very effortlessly perfect type of effect and I liked that a lot!”</p>
 </blockquote>
 
+<<<<<<< HEAD
+<p>says the team’s client relations, Han Lam (VA ‘24)</p>]]></content><author><name>Jocelin Lila-Cruz &amp; Ivy Kim</name></author><category term="events" /><summary type="html"><![CDATA[Every year, the Visual Arts Conservatory hosts an art showcase for all grade levels. March 8th was the opening night for the 10th Grade Showcase where sophomores showcased their pieces from last semester in the front lobby for everyone to enjoy! The show consisted of various types of artworks from a multitude of classes. The show included master copy paintings that sophomores completed in the 2D Design class. Students were able to display their knowledge and create their own rendition of other master painters. The show also contained a few pieces from other classes like photography and ceramics. Overall, the showcase was a great opportunity to celebrate their work in a space with their family and friends. Here is what a few Visual Arts students had to say about their experience with the show:]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/va-tenth-grade-showcase.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/va-tenth-grade-showcase.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Shamrock Saint: History of Saint Patrick’s Day</title><link href="http://localhost:4000/the-shamrock-saint/" rel="alternate" type="text/html" title="The Shamrock Saint: History of Saint Patrick’s Day" /><published>2023-03-31T00:00:00-07:00</published><updated>2023-03-31T00:00:00-07:00</updated><id>http://localhost:4000/the-shamrock-saint</id><content type="html" xml:base="http://localhost:4000/the-shamrock-saint/"><![CDATA[<p>On March 17th, CSArts students wore their best green clothes to celebrate Saint Patrick’s Day. St. Patrick’s Day is celebrated annually on March 17, which is the death anniversary of Saint Patrick. But who is Saint Patrick, and why do we celebrate him?</p>
+
+<p>Saint Patrick is the patron saint of Ireland and its national apostle. He was born in Roman Britain, and was then kidnapped and brought to Ireland as a slave at 16. He would later escape, but would later return to Ireland. He is often credited with bringing Christianity to its people. By the time of his death on March 17, 461, he had established monasteries, churches, and schools.</p>
+
+<p>There are a variety of myths and legends regarding Saint Patrick. One of the most notable is how he was the one to drive the snakes out of Ireland, or how he used the native shamrock of Ireland to explain the Holy Trinity.</p>
+
+<p>The traditions of Saint Patrick’s Day have evolved over the centuries. The city of Chicago dyes its river green, and other cities hold parades, where thousands of people, Irish and non-Irish alike, gather together to celebrate the holiday. Corned beef and cabbage are associated with the holiday, and even beer is sometimes dyed green as well.</p>
+
+<p>Whether you believe in Irish luck or not, the holiday of Saint Patrick’s Day is a fun way to celebrate the history, mythology, and culture of the Irish people.</p>]]></content><author><name>Sophia Brunet</name></author><category term="essays" /><category term="featured" /><summary type="html"><![CDATA[On March 17th, CSArts students wore their best green clothes to celebrate Saint Patrick’s Day. St. Patrick’s Day is celebrated annually on March 17, which is the death anniversary of Saint Patrick. But who is Saint Patrick, and why do we celebrate him?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/the-shamrock-saint.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/the-shamrock-saint.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The History of Valentines Day</title><link href="http://localhost:4000/the-history-of-valentines-day/" rel="alternate" type="text/html" title="The History of Valentines Day" /><published>2023-02-27T00:00:00-08:00</published><updated>2023-02-27T00:00:00-08:00</updated><id>http://localhost:4000/the-history-of-valentines-day</id><content type="html" xml:base="http://localhost:4000/the-history-of-valentines-day/"><![CDATA[<p>Between the kisses and candy hearts, Valentine’s Day is a celebration of the patron saint of beekeepers, epilepsy, and of course, lovers. Valentine’s Day is a commemoration of the bravery of a man who dedicated his life to nurturing and strengthening the love two people have for one another.</p>
+
+<p>The origin of Valentine’s Day began in Rome during the reign of Emperor Claudius the Cruel. Under the Emperor’s iron fist, Rome necessitated a powerful army. However, young soldiers were more focused on dedicating themselves to their families, leaving Emperor Claudius’s military severely lacking. To combat the problem, Claudius decided to ban all marriages and engagements in Rome, catching the attention of a Roman priest by the name of Valentine.</p>
+
+<p>Valentine determined that forbidding rituals of love was a devious act, and retaliated against the Emperor in secret. The priest bravely continued to marry young lovers in spite of the Empire’s decrees until he was caught in 270 CE. When Valentine was discovered, he was beaten and beheaded on February 14, becoming a martyr and saint within the Christian church. Valentine’s martyrdom is a symbol of persisting and uplifting love in the face of all odds, and if not for his bravery and values, the candy hearts and chocolate roses would be a slice of imagination.</p>
+
+<p>Valentine’s Day is not only a couples holiday, but rather a celebration of all love—whether romantic, platonic, familial, or even artistic. The Day of Love is a reminder to us all to uplift ourselves and each other, in spite of any obstacles that may stand in our way.</p>]]></content><author><name>Sevana Zadoian</name></author><category term="essays" /><category term="featured" /><summary type="html"><![CDATA[Between the kisses and candy hearts, Valentine’s Day is a celebration of the patron saint of beekeepers, epilepsy, and of course, lovers. Valentine’s Day is a commemoration of the bravery of a man who dedicated his life to nurturing and strengthening the love two people have for one another.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/the-history-of-valentines-day.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/the-history-of-valentines-day.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">CSArts’ Enchanted Evening</title><link href="http://localhost:4000/CSArts-Enchanted-Evening/" rel="alternate" type="text/html" title="CSArts’ Enchanted Evening" /><published>2023-02-27T00:00:00-08:00</published><updated>2023-02-27T00:00:00-08:00</updated><id>http://localhost:4000/CSArts-Enchanted-Evening</id><content type="html" xml:base="http://localhost:4000/CSArts-Enchanted-Evening/"><![CDATA[<p>As we settle into the second semester of the school year, it’s time to celebrate! On February 4th, CSArts students gathered together to dance with their friends at Winter Formal, held at the Springfield Banquet Hall. The theme of the night was Enchanted Evening, and many dressed in their finest dresses and suits, some with florals, lace, and greens and purples to match the theme.</p>
+
+<blockquote>
+  <p>“For this year’s winter formal theme, we wanted to go for a fantasy vibe, something that was really different from homecoming, Neon Nights. The venue had a whimsical feel and the potential to portray a fairytale scene.”</p>
+</blockquote>
+
+<p>Jolene Young said, one of the members of the CSArts Leadership dance committee. During the dance, the venue was decorated with a variety of fairy lights, flowers and vines, helping to create a truly ethereal atmosphere to the event. However, despite the beautiful decorations, some were apprehensive of attending the event at first.</p>
+
+<blockquote>
+  <p>“I was kind of worried about distance and finding people to spend time with, but that ended up not being a problem at all. I’m glad I went!”</p>
+</blockquote>
+
+<p>said Rosie Williams (VA ‘23)</p>
+
+<p>When asked about the process of choosing a venue, the dance committee said, “all venues are chosen prior to the school year by the leadership advisor. For these venues, the advisor looks at the venue capacity and having various spaces to accommodate all students. We also take into account the location, finding a place in the middle ground.”</p>
+
+<p>No matter the distance or theme, all that were at Winter Formal can confirm that it was truly an enchanted evening to remember.</p>]]></content><author><name>Sophia Brunet</name></author><category term="events" /><summary type="html"><![CDATA[As we settle into the second semester of the school year, it’s time to celebrate! On February 4th, CSArts students gathered together to dance with their friends at Winter Formal, held at the Springfield Banquet Hall. The theme of the night was Enchanted Evening, and many dressed in their finest dresses and suits, some with florals, lace, and greens and purples to match the theme.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/none/10.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/none/10.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Seasonal Affective Disorder</title><link href="http://localhost:4000/SAD/" rel="alternate" type="text/html" title="Seasonal Affective Disorder" /><published>2022-12-16T00:00:00-08:00</published><updated>2022-12-16T00:00:00-08:00</updated><id>http://localhost:4000/SAD</id><content type="html" xml:base="http://localhost:4000/SAD/"><![CDATA[<p>Seasonal Affective Disorder, otherwise known as SAD or seasonal depression is a relatively common effect of shorter days with sunlight and colder weather. It can affect anyone, but, statistically, it is more common for those in their 20’s and 30’s. The combination of weather changes, less sunshine, and the onslaught of homework can affect students, even here in “sunny” California.</p>
+
+<blockquote>
+  <p>I just end up feeling really depressed and I find it really difficult to get any work done. Then I end up feeling guilty, because I am not being productive,”</p>
+</blockquote>
+
+<p>said an anonymous CSArts student.</p>
+
+<p>This is not an uncommon occurrence of SAD and the slew of work students have during this time of year.</p>
+
+<p>Although SAD is common, there are ways to help those who are affected by it. Doctors encourage those with seasonal depression to make sure they are getting exercise, outside, if the sun is shining. Sun provides us with Vitamin D as well. In the winter, it may be difficult to get enough vitamin D, so doctors suggest vitamin supplements. Wide spectrum lights simulate sunlight by using special light bulbs and can also make quite a difference. They can be found on Amazon. Most importantly, If you or anyone you know is struggling with SAD, you are not alone.</p>
+
+<p>Here are a few resources to help!</p>
+
+<ul>
+  <li>Reach out to your teachers and counselors!</li>
+  <li><a href="https://988lifeline.org">Suicide Hotline Number</a></li>
+  <li><a href="https://www.crisistextline.org/">Crisis Text Line</a></li>
+</ul>]]></content><author><name>Luna Martinez-Granilo</name></author><category term="misc" /><summary type="html"><![CDATA[Seasonal Affective Disorder, otherwise known as SAD or seasonal depression is a relatively common effect of shorter days with sunlight and colder weather. It can affect anyone, but, statistically, it is more common for those in their 20’s and 30’s. The combination of weather changes, less sunshine, and the onslaught of homework can affect students, even here in “sunny” California.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/none/5.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/none/5.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Conservatory Crossover</title><link href="http://localhost:4000/conservatory-crossover/" rel="alternate" type="text/html" title="Conservatory Crossover" /><published>2022-12-16T00:00:00-08:00</published><updated>2022-12-16T00:00:00-08:00</updated><id>http://localhost:4000/conservatory-crossover</id><content type="html" xml:base="http://localhost:4000/conservatory-crossover/"><![CDATA[<p>CSArts Conservatories invite all students to explore their passions, to search for a good fit with their interests and talents. Sometimes, that means switching conservatories. Dozens of CSArts students plan on transferring conservatories next Fall. This month, many students have prepared and submitted their transfer applications, and CSArts believes there is no shame in finding a better fit.</p>
+
+<blockquote>
+  <p>Generally, students switch conservatories because they have become immersed in the artistic culture of the school and have found other areas that interest them more,”</p>
+</blockquote>
+
+<p>said Dr. Cook, the Dean of Arts. Students may also wish to advance in specific subjects, like ballet or painting, and choose their new conservatory accordingly.</p>
+
+<blockquote>
+  <p>The benefit for transferring to another conservatory would be to focus on another art form that has become a new artistic passion,”</p>
+</blockquote>
+
+<p>said school counselor Mrs. Shiroma. CSArts students are surrounded by a wide variety of forms of art and opportunities every day.</p>
+
+<blockquote>
+  <p>I have friends in different conservatories. I think that gave me a perspective of what it would be like in another conservatory, and of the other possibilities at CSArts,”</p>
+</blockquote>
+
+<p>said Sienna (IA ‘26). Those changing conservatories could also have experienced a change of interests. On the other hand, some wish to pursue their current or original interests.</p>
+
+<blockquote>
+  <p>My interests haven’t really changed, but talking to other people, I’ve realized that where I want to be is not where I am now,”</p>
+</blockquote>
+
+<p>said Sienna. Some students, especially freshmen, are switching from Integrated Arts to other conservatories.</p>
+
+<blockquote>
+  <p>I think the classes in other conservatories are more leveled than the classes in IA,”</p>
+</blockquote>
+
+<p>said an anonymous student.</p>
+
+<blockquote>
+  <p>In IA you start with beginner classes in lots of different subjects.”</p>
+</blockquote>
+
+<p>Many see the Integrated Arts conservatory as a great opportunity to experience all that CSArts has to offer. Those transferring from IA choose the art form they connect with the most.</p>
+
+<blockquote>
+  <p>Visual Arts seems pretty cool,”</p>
+</blockquote>
+
+<p>said Sophia, a freshman currently in Creative Writing.</p>
+
+<blockquote>
+  <p>I draw a lot during class to help me focus and pay attention to my teachers, so I should probably be in a drawing conservatory!”</p>
+</blockquote>
+
+<p>Student applications were accepted until December 9th. Though the due date has passed, those wishing to change conservatories can still apply at the beginning of next school year.</p>
+
+<blockquote>
+  <p>Current CSArts-SGV students are welcome to apply for a conservatory transfer once per school year,”</p>
+</blockquote>
+
+<p>said Mrs. Shiroma.</p>
+
+<blockquote>
+  <p>Current students wishing to apply to a new conservatory must submit a complete conservatory transfer application and participate in a new conservatory placement activity.”</p>
+</blockquote>
+
+<p>High school is the perfect time to explore your interests. Better now than half-way into your career!</p>]]></content><author><name>Linnea Venti</name></author><category term="interviews" /><summary type="html"><![CDATA[CSArts Conservatories invite all students to explore their passions, to search for a good fit with their interests and talents. Sometimes, that means switching conservatories. Dozens of CSArts students plan on transferring conservatories next Fall. This month, many students have prepared and submitted their transfer applications, and CSArts believes there is no shame in finding a better fit.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/none/1.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/none/1.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Crazy Christmas Movie Conundrum</title><link href="http://localhost:4000/crazy-christmas-movie-conundrum/" rel="alternate" type="text/html" title="Crazy Christmas Movie Conundrum" /><published>2022-12-16T00:00:00-08:00</published><updated>2022-12-16T00:00:00-08:00</updated><id>http://localhost:4000/crazy-christmas-movie-conundrum</id><content type="html" xml:base="http://localhost:4000/crazy-christmas-movie-conundrum/"><![CDATA[<p>Now that December has rolled around the holiday season is in full swing. Which means people are busting out the decade old Christmas DVDs and settling down on their couch to watch iconic Christmas movies such as “Home Alone” or “A Christmas Story”. But then there are the more contraversial choices. Movies that walk a thin line between actual Christmas movies or movies that were just released during the holiday season. These movies spark the age old debate of what qualifies as a Christmas movie?</p>
+
+<p>Every month, student journalists at the CSArtisan get together and have a news meeting. We go over the news of the month, upcoming holidays, etc. all to figure out what’s gonna be our next headlining stories for the next issue. When I brought up this story I got some quizzical looks about what this article would be about. But when I brought up Die Hard as an example of a “Christmas Movie”… The whole room erupted into argument!</p>
+
+<p>“It’s not a Christmas movie!” exclaimed our journalist M.J., “It just happens to take place on Christmas Day the plot doesn’t revolve around Christmas!” Though the beginning of the movie centers around Bruce Willis going to L.A. for his kid’s Christmas and getting roped up in his ex-wife’s office Christmas party, once the terrorist plot starts up you completely forget the Christmas parts of the movie.</p>
+
+<p>Sidney, our graphic designer, had a different opinion, “It’s a Christmas movie because the idea surrounding it is that it’s set during Christmas so it should be regarded as a Christmas movie,”</p>
+
+<p>And, as said previously, the plot does get kicked into motion by the terrorists hijacking the office Christmas party. Also, a lot of the trailers and promos about Die Hard really double down on the fact Die Hard is a Christmas movie I left the meeting feeling optimistic about this article. If even a throwaway mention of Die Hard sparked so much debate, I wondered what students thought of other infamous not-so-Christmas movies. So I set up a google form, to gauge what people classified as a Christmas movie. What I was expecting when sending out the Google form was maybe some lukewarm takes about Die Hard or the Nightmare Before Christmas. What I didn’t expect was people saying HOME ALONE (technically) ISN’T A CHRISTMAS MOVIE.</p>
+
+<p>“There’s a difference between a story set in Christmas and a Christmas story,” says Alex the Christmas heretic,</p>
+
+<blockquote>
+  <p>Sure, movies like Home Alone take place during Christmas, and are the reason for events to happen, they are not part of the real story. Christmas stories are about Christmas itself, and the values we associate with the holidays like family connection, thoughtfulness and giving. Therefore, movies set during Christmas but with no message or story connecting to Christmas values doesn’t fall under ‘A Christmas Story’ movie.”</p>
+</blockquote>
+
+<p>Despite how controversal Alex’s opinion is, I can see his point. Once the kid is left behind in house the Christmas aspect of the movie takes a backseat outside of Kevin’s clever traps using Christmas items. But even with the Christmas themed trappings he was just using what he could find around the house! I’d say the one thing against Alex’s argument is that the plot is set in motion by the family Christmas trip to France. If the family wasn’t going to France they probably would’ve waited out the power outage and had a regular Christmas at home.</p>
+
+<p>The other thing I realized is how much this Home Alone argument echoed arguments about Die Hard. Both movies are centered around Christmas at the very beginning and the very end but the middle of the movie has next to nothing to do with Christmas! This is why I wanted to center an article around this topic. It so interesting to see people go into spirited fights over Christmas movies like they bet their life on this movie. It’s also fun to fight over things they don’t really matter! Especially with the world we live in nowadays.</p>]]></content><author><name>Rio A. Lee</name></author><category term="misc" /><summary type="html"><![CDATA[Now that December has rolled around the holiday season is in full swing. Which means people are busting out the decade old Christmas DVDs and settling down on their couch to watch iconic Christmas movies such as “Home Alone” or “A Christmas Story”. But then there are the more contraversial choices. Movies that walk a thin line between actual Christmas movies or movies that were just released during the holiday season. These movies spark the age old debate of what qualifies as a Christmas movie?]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/none/3.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/none/3.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Gift of Family of Choice</title><link href="http://localhost:4000/family-of-choice/" rel="alternate" type="text/html" title="The Gift of Family of Choice" /><published>2022-12-16T00:00:00-08:00</published><updated>2022-12-16T00:00:00-08:00</updated><id>http://localhost:4000/family-of-choice</id><content type="html" xml:base="http://localhost:4000/family-of-choice/"><![CDATA[<p>Holidays are a time to celebrate with family, but for some, it can be miserable. In this divisive time of Covid, politics, and religion, spending time with relatives can be too difficult. As a result of this division, comes a new way of celebrating the holidays, with the idea of, “family of choice.”</p>
+
+<p>A family of choice can be anyone that you desire, as long as you feel comfortable and understood with those people. It can range from friends, coworkers, and neighbors. People who love you for your authentic self, and don’t expect you to change when you are around them. The importance of a found family is the fact that it can be between anyone, whether bound by blood or not.</p>
+
+<p>Many people choose to celebrate the holidays with their families of choice, for a variety of reasons. Some merely find it easier to celebrate with those already living close to them, and find the trip back home tedious and far too time-consuming.</p>
+
+<p>Others find their families of choice more understanding than the family they are actually related to. There’s less argument due to generational differences, and more understanding and compassion. The family of choice already accepts you for who you are, while some biological families may not, especially with older relatives.</p>
+
+<blockquote>
+  <p>Family of choice has been of great importance to the LGBTQ+ community. Many times, our queer siblings have been shut out or mistreated by family members. So, this idea has helped bring people together, who may have been shunned by family members,”</p>
+</blockquote>
+
+<p>said Mr. Blair, a Creative Writing teacher here at CSArts.</p>
+
+<p>With the rise of mental-health awareness, families of choice only become more important. People would rather spend time with those who don’t affect their mental health negatively, regardless of relation. It’s hard to connect with those who won’t connect with you, which many feel when being around their extended family. An intense family gathering is not the recipe for feeling good about the holidays, and can put a damper on what is meant to be a joyful time.</p>
+
+<p>However, with the gift of choice, holiday celebrations don’t have to feel this way. There’s no need for time with those you love to be weighed down by obligation and formality. Instead, people have the opportunity for new ways of celebrating, beginning new traditions on their own terms. Through a family of choice, people are allowed to make the holidays truly their own.</p>
+
+<p>The core of the holidays has always been to spend time with those you love, celebrating the love and care you give for each other. No matter who you spend the holidays with, it should always be with someone that will make you smile.</p>]]></content><author><name>Sophia Brunet</name></author><category term="essays" /><summary type="html"><![CDATA[Holidays are a time to celebrate with family, but for some, it can be miserable. In this divisive time of Covid, politics, and religion, spending time with relatives can be too difficult. As a result of this division, comes a new way of celebrating the holidays, with the idea of, “family of choice.”]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/none/2.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/none/2.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+=======
 <p>says the team’s client relations, Han Lam (VA ‘24)</p>]]></content><author><name>Jocelin Lila-Cruz &amp; Ivy Kim</name></author><category term="events" /><summary type="html"><![CDATA[Every year, the Visual Arts Conservatory hosts an art showcase for all grade levels. March 8th was the opening night for the 10th Grade Showcase where sophomores showcased their pieces from last semester in the front lobby for everyone to enjoy! The show consisted of various types of artworks from a multitude of classes. The show included master copy paintings that sophomores completed in the 2D Design class. Students were able to display their knowledge and create their own rendition of other master painters. The show also contained a few pieces from other classes like photography and ceramics. Overall, the showcase was a great opportunity to celebrate their work in a space with their family and friends. Here is what a few Visual Arts students had to say about their experience with the show:]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/posts/va-tenth-grade-showcase.jpg" /><media:content medium="image" url="http://localhost:4000/assets/images/posts/va-tenth-grade-showcase.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+>>>>>>> main
