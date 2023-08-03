@@ -14,6 +14,8 @@ permalink: /:title/
 bannercontent: 
 bannerlink: https://csartisan.org/docs
 
+url: "https://csartisan.org"
+
 # Plugins
 plugins: 
   - jekyll-feed
