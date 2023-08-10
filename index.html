@@ -161,13 +161,13 @@ description: ""
     
 </div>
     
-<!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
+<!-- Jumbotron - add sticky tag to the post you want to highlight here - tags: [sticky] -->
 {% for post in site.posts %} 
 {% if post.tags contains "sticky" %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative" id="jumbotron">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
-            <div class="col-md-6 pt-6 pb-6 pr-lg-4 align-self-center">
+            <div class="col-md-6 pt-5 pb-5 pr-lg-4 align-self-center">
                 <small class="d-block-sticky text-muted">
                     <span class="catlist">
                     {% for category in post.categories %}
@@ -178,7 +178,7 @@ description: ""
                 <h1 class="mb-3">{{post.title}}</h1>
                 <p class="mb-3">By {{post.author}}</p>
                 <p class="mb-3 lead">
-                    {{ post.excerpt | strip_html | strip_newlines | truncate: 136 }}
+                    {{ post.excerpt | strip_html | strip_newlines | truncate: 100 }}
                 </p>
                 <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
             </div>
