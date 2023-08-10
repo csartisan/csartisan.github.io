@@ -8048,6 +8048,8 @@ html {
   .d-md-block {
     aspect-ratio: 4/3;
     display: block !important; }
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem; }
   .d-md-table {
     display: table !important; }
   .d-md-table-row {
