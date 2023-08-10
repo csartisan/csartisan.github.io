@@ -13,7 +13,7 @@ permalink: /:title/
 # Promo Banner
 # !! Banner only appears if there is content within bannercontent !!
 bannercontent: 
-bannerlink: https://csartisan.org/docs
+bannerlink: http://csartisan.org/docs
 
 url: "https://csartisan.org"
 
