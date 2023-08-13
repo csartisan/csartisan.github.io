@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 286 286" width="286" height="286" fill="none">
+    <style>
+        #inkwell { fill: #000 }
+
+        @media (prefers-color-scheme: dark) {
+             #inkwell { fill: #fff }
+        }
+    </style>
+    <g id="cubes">
+        <path fill="#203BC8" d="M132 57V6h54v51h-54Z"/>
+        <path fill="#EA0046" d="M225 137V94h47v43h-47Z"/>
+        <path fill="#BD0039" d="M95 94 62 68l28-32 33 27-28 31Z"/>
+        <path fill="#7A1E60" d="m251 72-42-33 35-39 42 33-35 39Z"/>
+        <path fill="#EA5400" d="m186 181 48-37 40 45-48 37-40-45Z"/>
+        <path fill="#F90" d="m0 183 18-64 68 18-19 63-67-17Z"/>
+        <path fill="#FFC700" d="m99 206 85-26 28 80-85 26-28-80Z"/>
+    </g>
+
+    <g id="inkwell">
+        <path d="M180 101h-32v30h32v-30Z"/>
+        <path d="m67 200 81-76 6 7-81 76z"/>
+    </g>
+</svg>
