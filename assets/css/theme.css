@@ -6,6 +6,7 @@ body {
 	font-family: 'Atkinson Hyperlegible', sans-serif;
 	overflow-x:hidden;
 	padding-top:69.75px;
+	-webkit-font-smoothing: antialiased;
 }
 .site-content {
 	margin-top:30px;
