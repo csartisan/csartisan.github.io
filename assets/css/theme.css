@@ -17,6 +17,7 @@ body {
 }
 img {
 	max-width:100%;
+	border-radius: 0.2rem;
 }
 .tofront {
 	position:relative;
@@ -806,4 +807,5 @@ div.a2a_full_footer {display:none;}
 		 height:390px !Important;
 	 }
  }
- 
+	border-radius: 0.2rem;
+}
