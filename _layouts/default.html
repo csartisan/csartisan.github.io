@@ -20,15 +20,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <!-- Open Graph Embed Data --> <!--
-    <meta property="og:title" content="CSArtisan" />
-    <meta property="og:description" content="Explore student written CSArts related articles." />
-    <meta property="og:image" content="https://csartisan.org/assets/images/opengraph-min.jpeg" />
-    <meta property="og:image:alt" content="CSArtisan Graphic" />
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:image" content="https://csartisan.org/assets/images/opengraph-min.jpeg" />
-    --> <!-- Open Graph Embed Data -->
-
     <title>{{page.title}}</title>
 
     {% seo %}
@@ -58,7 +49,7 @@
 
 </head>
 
-<body class="{% if page.url == "/" %} homefirstpage {% endif %}">
+<body class="{% if page.url == "/" %} homefirstpage {% endif %}" >
 
     <!-- Navbar -->
     <nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
@@ -99,7 +90,7 @@
     {% endif %}
 
     <!-- Content -->
-    <main role="main" class="site-content">
+    <main role="main" class="site-content" onload="console.log("hello")">
         {{ content }}
     </main>
 
