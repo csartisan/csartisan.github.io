@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    {% if page.icon != null %}
     <!-- Multi-platform Favicon Data -->
         <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
         <link rel="icon" type="image/svg+xml" href="/assets/favicon/favicon.svg">
@@ -15,6 +16,7 @@
         <meta name="msapplication-config" content="/assets/favicon/browserconfig.xml">
         <meta name="theme-color" content="#ffffff">
     <!-- End Multi-platform Favicon Data -->
+    {% endif %}
     
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -81,7 +83,7 @@
             <div class="container">
             <div align="center" class="justify-content-between">
                 <div>
-                    <a href={{ site.bannerlink }}>{{ site.bannercontent }}</a>
+                    <a href="{{ site.bannerlink }}">{{ site.bannercontent }}</a>
                 </div>
             </div>
             </div>
