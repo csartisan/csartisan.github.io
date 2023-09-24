@@ -225,6 +225,9 @@
 <loc>http://0.0.0.0:4000/contact.html</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/games.html</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/</loc>
 </url>
 <url>
@@ -254,14 +257,6 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/authors/cacodemon.html</loc>
-<lastmod>2023-03-13T15:29:48-05:00</lastmod>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/authors/ganondorf.html</loc>
-<lastmod>2023-03-13T15:29:48-05:00</lastmod>
-</url>
-<url>
-<loc>http://0.0.0.0:4000/authors/wordsearch.html</loc>
 <lastmod>2023-03-13T15:29:48-05:00</lastmod>
 </url>
 </urlset>
