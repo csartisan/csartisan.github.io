@@ -4,7 +4,7 @@ layout: post
 title:  "CSArts PSAT Cancelled"
 author: "MJ Cho & Abigail Risdon"
 [//]: # every post needs a category, if there isnt an apparent one, use [misc].
-categories: [ misc ]
+categories: [ updates ]
 [//]: # if there is no photo to add, instead use a gradient from [none] folder by picking a number from 1-10. (all gradients are .jpg)
 image: ./assets/images/posts/psat-cancelled.jpg
 imagecred: ""
