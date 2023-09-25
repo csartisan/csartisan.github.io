@@ -1,19 +1,21 @@
-# Site
+# ↓ Site
 name: 'CSArtisan'
 description: 'Explore CSArts related news stories.'
 logo: 'assets/images/thumbnail.png'
 # favicon: 'assets/images/favicon.ico'
 baseurl: '' 
 email: 'csartsnewspaper@gmail.com'
-mailchimp-list: 
+# mailchimp-list: 
+
+future: true
 
 include: ["_pages"]
 permalink: /:title/
 
 # Promo Banner
 # !! Banner only appears if there is content within bannercontent !!
-bannercontent: 
-bannerlink: http://csartisan.org/docs
+bannercontent: "Give our new online Crossword a shot!"
+bannerlink: "/games.html"
 
 url: "https://csartisan.org"
 
@@ -30,7 +32,7 @@ plugins:
 # Defaults
 defaults:
 
-  # all posts
+  # ↓ all posts
   - scope:
       path: "_posts"
     values:
@@ -38,7 +40,7 @@ defaults:
       author: 
       avatar: 
       
-  # all pages
+  # ↓ all pages
   - scope:
       path: "_pages"
     values:
@@ -51,7 +53,7 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
-#baseurl
+# baseurl
 baseurl: 
 
 # Exclude metadata and development time dependencies (like Grunt plugins)

@@ -9,7 +9,7 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 .site-content {
-	margin-top:30px;
+	margin-top:31px;
 	min-height:400px;
 }
 .remove-site-content-margin {
@@ -17,6 +17,7 @@ body {
 }
 img {
 	max-width:100%;
+	border-radius: 0.2rem;
 }
 .tofront {
 	position:relative;
@@ -806,4 +807,6 @@ div.a2a_full_footer {display:none;}
 		 height:390px !Important;
 	 }
  }
- 
+.topfirstimage {
+	border-radius: 0.2rem;
+}

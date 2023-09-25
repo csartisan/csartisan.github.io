@@ -1,1 +1,3 @@
-# We are now @ [csartisan.org](https://www.csartisan.org)
+# CSArtisan Newspaper Club
+
+If you are interested in contributing the website, please read [docs.csartisan.org](http://docs.csartisan.org/).
