@@ -9,7 +9,7 @@ categories: [ updates ]
 image: ./assets/images/posts/none/5.jpg
 imagecred: ""
 [//]: # see "Tags" for usable tags.
-tags: [ sticky ]
+tags: []
 ---
 Mr. Blaylock embodies all that is good about our school. His positive energy, boundless enthusiasm, deep commitment to excellence, endless creativity, and heart-felt dedication to his students all reflect the best possible qualities of a director of a program at an arts school. 
 
