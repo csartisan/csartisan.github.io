@@ -14,7 +14,7 @@ permalink: /:title/
 
 # Promo Banner
 # !! Banner only appears if there is content within bannercontent !!
-bannercontent: "Give our new online Crossword a shot!"
+bannercontent: "Play two new Halloween-themed crosswords!"
 bannerlink: "/games.html"
 
 url: "https://csartisan.org"
