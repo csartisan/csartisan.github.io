@@ -14,12 +14,12 @@ layout: default
                         {% endfor %}
                         </span>
 					</p>
-					<h1 class="display-4 mb-4 article-headline">{{ page.title }}</h1>
+					<h1 class="display-4 mb-3 article-headline">{{ page.title }}</h1>
 					<div class="d-flex align-items-center">
                         <!--{% if author.avatar %}
                         <img class="rounded-circle" src="{{site.baseurl}}/{{author.avatar}}" alt="{{author.name}}" width="70"/>
                         {% endif %}-->
-						<small class="ml-3"> {{ page.author }} <span> <!--<a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span> -->
+						<small class=""> {{ page.author }} <span> <!--<a target="_blank" href="{{ author.twitter }}" class="btn btn-outline-success btn-sm btn-round ml-1">Follow</a></span> -->
 							<!--Two if gates means that the intro text wont show for neither blank nor [""]-->
 							{% if page.imagecred %}
 							{% if page.imagecred != ""%}
