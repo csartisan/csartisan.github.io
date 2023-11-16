@@ -9,7 +9,7 @@ categories: [ updates ]
 image: ./assets/images/posts/security-at-school.jpg
 imagecred: ""
 [//]: # see "Tags" for usable tags.
-tags: [ sticky ]
+tags: []
 ---
 School security dominates national headlines. Concerns about rising rates of violence across the country have led to the implementation of new policies to keep students, teachers and staff safe. This includes practicing emergency drills, educating students on what to look for, and implementing technology to enhance safety around campuses. But what does school safety look like at CSArts?
 
