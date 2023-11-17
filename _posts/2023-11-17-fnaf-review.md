@@ -10,7 +10,7 @@ image: ./assets/images/posts/fnaf-review.jpg
 imagecred: ""
 [//]: # see "Tags" for usable tags.
 tags: []
-date: 2023-10-20 12:00:15
+date: 2023-11-17 12:00:15
 ---
 This is a spoiler-free review of "Five Nights at Freddy's".
 

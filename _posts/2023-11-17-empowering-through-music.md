@@ -10,7 +10,7 @@ image: ./assets/images/posts/empowering-through-music.jpg
 imagecred: ""
 [//]: # see "Tags" for usable tags.
 tags: []
-date: 2023-10-20 12:00:10
+date: 2023-11-17 12:00:10
 ---
 Have you heard of the Dragon Kim Music Foundation? It’s a program rooted at CSArts and Orange County School of The Arts named after a student and breaking down barriers hindering aspiring young musicians from pursuing their dreams.
 

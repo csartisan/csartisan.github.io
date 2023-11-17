@@ -10,7 +10,7 @@ image: ./assets/images/posts/conservatory-underfunding.jpg
 imagecred: ""
 [//]: # see "Tags" for usable tags.
 tags: []
-date: 2023-10-20 12:00:05
+date: 2023-11-17 12:00:05
 ---
 “CSArts-SGV Needs Your Help”. That’s the message sent via email to CSArts families by Dr. Endelman. It contained an even more concerning message that administrators would have to furlough the first week of conservatory because donations are down. This year, the donations and pledges from families/sponsors totaled a little more than half  the 2.8 million dollars needed to fund conservatory programs each year. He explained that while tax-payer dollars pay for the academic day, it is up to the school to privately fundraise the annual budget for each conservatory. This budget includes money for equipment and supplies, facilities, performance opportunities, guest artist master teachers, field trips, and pays the  salaries for conservatory teachers and directors.
 
