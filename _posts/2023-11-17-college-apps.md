@@ -9,7 +9,7 @@ categories: [ updates ]
 image: ./assets/images/posts/none/3.jpg
 imagecred: ""
 [//]: # see "Tags" for usable tags.
-tags: [ sticky ]
+tags: []
 ---
 As the time to submit college apps comes closer and closer, stress builds as students are trying to complete their applications. The college application process can be an overwhelming experience for high school students. From choosing the right schools to crafting compelling essays, applicants often find themselves needing guidance. The CSArtisan interviewed some students on how they are feeling about college applications.
 
