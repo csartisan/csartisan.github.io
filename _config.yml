@@ -14,8 +14,8 @@ permalink: /:title/
 
 # Promo Banner
 # !! Banner only appears if there is content within bannercontent !!
-bannercontent: "Stressed about Finals Week? Unwind with CSArtisan Games!"
-bannerlink: "/games.html"
+bannercontent: "Have a great Winter Break!"
+bannerlink: ""
 
 url: "https://csartisan.org"
 
