@@ -14,7 +14,7 @@ date: 2023-12-15 12:00:15
 ---
 Don’t have any ideas for what to get your friends and families for the holidays?  Don’t worry, because we have special gifts handmade by our fellow CSArts students! These creative students have fun items that will lift the stress of finding good gifts for your loved ones.
 
-Matilda Currie, a 9th grader in Visual Arts has a business called “Skydesign,” selling keychains, earrings, rings, and necklaces. She says she loves incorporating bright and bold colors, resulting in beautiful colorful accessories, perfect for anyone. You can find her selling these on Instagram [@skydesign____](https://www.instagram.com/skydesign____). 
+Matilda Currie, a 9th grader in Visual Arts has a business called “Skydesign,” selling keychains, earrings, rings, and necklaces. She says she loves incorporating bright and bold colors, resulting in beautiful colorful accessories, perfect for anyone. You can find her selling these on Instagram [@skydesign____](https://www.instagram.com/skydesign____/?hl=en). 
 
 Two friends, Juniors, Linhlyl Harwell and Sophia Teyolia, started a crochet business together. They both always enjoyed crocheting, and so they decided to start their own business. Some things they sell are crochet tops, tote bags, keychains, and overall more crochet accessories. Commissions are open during the holiday season, so make sure to visit their Instagram [@doubletreble.co](https://www.instagram.com/doubletreble.co/).
 
