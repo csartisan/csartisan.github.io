@@ -14,7 +14,7 @@ permalink: /:title/
 
 # Promo Banner
 # !! Banner only appears if there is content within bannercontent !!
-bannercontent: "Have a great Winter Break!"
+bannercontent: "Welcome, new students!"
 bannerlink: ""
 
 url: "https://csartisan.org"
