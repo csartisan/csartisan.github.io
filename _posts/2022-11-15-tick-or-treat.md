@@ -9,7 +9,7 @@ categories: [ productions ]
 image: ./assets/images/posts/tick-or-treat.jpg
 imagecred: ""
 [//]: # see "Tags" for usable tags.
-tags: [ featured ]
+tags: [ ]
 ---
 The scary season is over, but the Halloween spirit is still haunting CSArts. Halloween was celebrated with the school’s first ever cross-conservatory haunted house: Tick or Treat! Students from the Acting, Creative Writing, Production and Design, and School of Dance conservatories collaborated to create an immersive experience.
 

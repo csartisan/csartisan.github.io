@@ -9,7 +9,7 @@ categories: [ updates ]
 image: ./assets/images/posts/goguardian.jpg
 imagecred: ""
 [//]: # see "Tags" for usable tags.
-tags: []
+tags: [ featured ]
 ---
 As schools begin to embrace the digital age, teachers find their own ways to combat distractions and make sure students stay on task.
 

@@ -12,7 +12,7 @@ imagecred: ""
 tags: []
 date: 2023-12-15 12:00:20
 ---
-If you’re a student at CSArt’s, chances are you’ve had a class in Diagon Alley, better known as the 400’s. Rumors of termites, deterioration, and admin losing the 400’s have spread around the school. But what’s true and what’s false? 
+If you’re a student at CSArts, chances are you’ve had a class in Diagon Alley, better known as the 400’s. Rumors of termites, deterioration, and admin losing the 400’s have spread around the school. But what’s true and what’s false? 
 
 Dr. Endelman, Principal at CSArts, says he had no knowledge of termites or deterioration in the 400’s when asked about the problems.  
 

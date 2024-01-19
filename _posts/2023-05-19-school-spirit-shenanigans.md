@@ -9,7 +9,7 @@ categories: [ events ]
 image: ./assets/images/posts/school-spirit-shenanigans.jpg
 imagecred: "Sidney Tsai"
 [//]: # see "Tags" for usable tags.
-tags: [ featured ]
+tags: []
 ---
 From our haunting Halloweens to our crazy contests, there’s no denying that at CSArts, festivities are beyond fantastic. As we approach the end of the school year, there’s no better time than the present to reflect on the spirited shenanigans that CSArts gets up to when spirit days roll around.
 
