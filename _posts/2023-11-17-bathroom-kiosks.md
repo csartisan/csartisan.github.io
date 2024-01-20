@@ -1,7 +1,7 @@
 ---
 layout: post
 [//]: # Title & Author, try to  use [""] quotations around text. (optional, just formality).
-title:  "Kidsaccount: The New Bathroom Kiosk System"
+title:  "KIDaccount: The New Bathroom Kiosk System"
 author: "MJ Cho & Abigail Risdon"
 [//]: # every post needs a category, if there isnt an apparent one, use [misc].
 categories: [ updates ]
