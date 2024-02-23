@@ -9,7 +9,7 @@ categories: [ misc ]
 image: ./assets/images/posts/would-you-get-krampused.jpg
 imagecred: ""
 [//]: # see "Tags" for usable tags.
-tags: [ sticky ]
+tags: []
 ---
 Who is Krampus you might ask? In some European folklore, Krampus is the opposite of the pure-hearted Santa Claus. With devil horns and goat hooves, Krampus is famous for kidnapping bad children and beating them for being naughty little brats. But what would it take for, I dunno, YOU to be taken by Krampus?
 

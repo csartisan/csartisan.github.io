@@ -14,8 +14,8 @@ permalink: /:title/
 
 # Promo Banner
 # !! Banner only appears if there is content within bannercontent !!
-bannercontent: "Welcome, new students!"
-bannerlink: ""
+bannercontent: "Follow us on Instagram for updates & more!"
+bannerlink: "https://www.instagram.com/csartsnewspaper/?hl=en"
 
 url: "https://csartisan.org"
 
