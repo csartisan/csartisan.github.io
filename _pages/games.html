@@ -24,8 +24,38 @@ icon: "custom"
     <meta name="theme-color" content="#ffffff">
     <!-- ↑ End games-exclusive favicon data ↑ -->
 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- Bootstrap Modified -->
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/main.css">
+
+    <!-- Theme Stylesheet -->
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/theme.css">
+
     <title>Games</title>
 </head>
+
+<!-- Navbar -->
+<nav id="MagicMenu" class="topnav navbar navbar-expand-lg navbar-light bg-white fixed-top">
+    <div class="container">
+        
+        <a href="{{ site.baseurl }}/index.html"><img class="header-icon" src="{{ site.baseurl }}/assets/images/games.svg"></img></a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/index.html"><strong>Games</strong></a>
+        <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="navbar-collapse collapse" id="navbarColor02" style="">
+            <ul class="navbar-nav mr-auto d-flex align-items-center">
+               {% include menu-header.html %}
+            </ul>
+            <ul class="navbar-nav ml-auto d-flex align-items-center">
+                {% include search-lunr.html %}
+            </ul>
+        </div>
+    </div>
+</nav>
 
 <iframe 
     height="100%" 
@@ -34,9 +64,12 @@ icon: "custom"
     style="
         border: none !important; 
         width: 100% !important; 
+        height: 100% !important; 
         position: static;
         display: block !important; 
-        margin: 0 !important;
+        margin: 0px !important;
     " 
     name="84b4f5a31d631c55f96e347204e252012d6e1aa7e927d900348dd3639ef4580b" 
     src="https://amuselabs.com/pmm/date-picker?set=84b4f5a31d631c55f96e347204e252012d6e1aa7e927d900348dd3639ef4580b&style=3&embed=1"></iframe>
+
+{% include footer.html %}

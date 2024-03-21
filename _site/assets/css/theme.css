@@ -279,6 +279,9 @@ a.text-dark:hover {
 	background-size:cover;
 	padding:7rem 1rem;
 }
+.jumbotron-games {
+	background-image: url('/assets/images/jumbotron-gradient.png');
+}
 @media {
 	.jumbotron-lg-withnav {
 		padding-bottom:calc(10rem - 69.75px);

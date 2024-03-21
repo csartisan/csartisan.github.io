@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 permalink: "/contact.html"
+sitemap: false
 ---
 
 <form action="https://formspree.io/{{site.email}}" method="POST">    

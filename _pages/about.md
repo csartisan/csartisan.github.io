@@ -4,6 +4,7 @@ layout: page-sidebar
 permalink: "/about.html"
 image: assets/images/spread.jpg
 comments: false
+sitemap: false
 ---
 We, the CSArts Newspaper, are an official student-produced publication. As an entity, we aim to serve as a designated open, public forum for freedom of expression for students to freely disseminate information and express their ideas. Under the rights delegated by the First Amendment and California Education Code 48907, we operate without prior review and produces content that reflects the views of the student body (within legal and ethical bounds).
 

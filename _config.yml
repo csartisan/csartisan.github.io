@@ -14,8 +14,8 @@ permalink: /:title/
 
 # Promo Banner
 # !! Banner only appears if there is content within bannercontent !!
-bannercontent: "Follow us on Instagram for updates & more!"
-bannerlink: "https://www.instagram.com/csartsnewspaper/?hl=en"
+bannercontent: "Play this month's Artist Spotlight Jigsaw Puzzle!"
+bannerlink: "/games"
 
 url: "https://csartisan.org"
 
