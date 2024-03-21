@@ -1,6 +1,6 @@
 # ↓ Site
 name: 'CSArtisan'
-description: 'Explore CSArts related news stories.'
+description: 'The official website of the CSArts student newspaper. Explore CSArts related news stories.'
 logo: 'assets/images/thumbnail.png'
 # favicon: 'assets/images/favicon.ico'
 baseurl: '' 
