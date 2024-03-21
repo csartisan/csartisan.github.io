@@ -28,6 +28,7 @@ plugins:
   # ↑ installed by template
   # ↓ installed by user
   - jekyll-admin   
+  - jekyll-minifier
 
 # Defaults
 defaults:
