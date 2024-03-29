@@ -92,6 +92,7 @@ hr {
 h1 {
   font-family: "Roboto Serif", serif;
   font-weight: 800;
+  text-wrap: pretty;
   margin-top: 0;
   margin-bottom: 0.5rem; 
   /* Variable Font Axis (Width) to match Print */
