@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second Language Struggles"
+title: "Second Language Struggles"
 author: "Karina Yue"
 categories: [ essays ]
 image: ./assets/images/posts/second-language-struggles.jpg
@@ -14,7 +14,7 @@ Ironic remarks similar to these are, unfortunately, a common occurrence made by 
 
 According to Nadiia Mykhalevych from [Preply](https://preply.com/en/blog/americans-foreign-language-survey/#:~:text=Second%20languages%20aren't%20retained,-The%20lack%20of&text=And%2C%20even%20at%20the%20height,understand%20the%20language%20they%20studied.), "Less than half (48%) viewed their [language] ability as intermediate. Today, 10% of foreign language learners could no longer understand the language they studied. Nearly 40% couldn’t make it through a day in the country whose language they studied using only that language.”
 
-Learning a second language is important because it broadens communication, enhances cognitive skills like memory and problem-solving, increases job prospects, and  enriches personal experiences.  Being bilingual is becoming an essential skill in today's interconnected world.
+Learning a second language is important because it broadens communication, enhances cognitive skills like memory and problem-solving, increases job prospects, and enriches personal experiences. Being bilingual is becoming an essential skill in today's interconnected world.
 
 Whether it's Mandarin, Spanish, or German, there is a need to narrow this divide in order to optimize learning outcomes for students. So, how exactly can this problem be addressed?
 
