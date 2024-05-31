@@ -14,8 +14,8 @@ permalink: /:title/
 
 # Promo Banner
 # !! Banner only appears if there is content within bannercontent !!
-bannercontent: "Play this month's Artist Spotlight Jigsaw Puzzle!"
-bannerlink: "/games"
+bannercontent: "See you next year!"
+bannerlink: "/"
 
 url: "https://csartisan.org"
 
