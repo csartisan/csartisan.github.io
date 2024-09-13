@@ -5,7 +5,7 @@ author: "Sofia Ruiz"
 categories: [ comics ]
 image: ./assets/images/posts/comic-water-leakage-2.jpg
 imagecred: ""
-tags: [ sticky ]
+tags: []
 ---
 Read "Spencer's Show Pt. 4: Water Leak Pt. 2"
 

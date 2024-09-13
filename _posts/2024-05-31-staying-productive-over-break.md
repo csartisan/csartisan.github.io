@@ -6,7 +6,7 @@ author: "Noelle Lee"
 categories: [ essays ]
 image: ./assets/images/posts/staying-productive-over-break.jpg
 imagecred: ""
-tags: [ sticky ]
+tags: []
 ---
 By this time of year, a lot of us are ready for school to end. Now that we’ve made it to summer though, what do we want to do with our time? While it’s important to rest, it’s a good idea to use your time productively.
 
