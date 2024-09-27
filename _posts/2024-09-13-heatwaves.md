@@ -1,7 +1,7 @@
 ---
 #http://docs.csartisan.org/docs/contributing/
 
-title: "Headwaves & You"
+title: "Heatwaves & You"
 author: "Arwen McKay"
 categories: [ updates ]
 image: ./assets/images/posts/heatwaves.jpg
