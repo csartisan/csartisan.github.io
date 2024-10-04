@@ -222,7 +222,9 @@ svg {
   vertical-align: middle; }
 
 table {
-  border-collapse: collapse; }
+  border-collapse: collapse; 
+  padding: 15px;
+}
 
 caption {
   padding-top: 0.75rem;
@@ -232,7 +234,8 @@ caption {
   caption-side: bottom; }
 
 th {
-  text-align: inherit; }
+  text-align: inherit; 
+}
 
 label {
   display: inline-block;
