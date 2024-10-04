@@ -2,7 +2,7 @@
 #http://docs.csartisan.org/docs/contributing/
 
 title: "Teachers Providing Materials for Students in Need "
-author: "First Last"
+author: "Victoria Maradiaga"
 categories: [ misc ]
 image: ./assets/images/posts/teachers-providing-materials.jpg
 imagecred: ""

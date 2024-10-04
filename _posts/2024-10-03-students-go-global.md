@@ -2,7 +2,7 @@
 #http://docs.csartisan.org/docs/contributing/
 
 title: "CSArts Students Go International"
-author: "First Last"
+author: "Ashel Brown"
 categories: [ misc ]
 image: ./assets/images/posts/students-go-global.jpg
 imagecred: ""

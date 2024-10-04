@@ -2,7 +2,7 @@
 #http://docs.csartisan.org/docs/contributing/
 
 title: "Meet Your Co-Class Presidents!"
-author: "First Last"
+author: "Ayleen Park"
 categories: [ updates ]
 image: ./assets/images/posts/meet-your-co-class-presidents-2024.jpg
 imagecred: ""
