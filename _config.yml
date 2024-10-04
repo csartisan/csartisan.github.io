@@ -14,8 +14,8 @@ permalink: /:title/
 
 # Promo Banner
 # !! Banner only appears if there is content within bannercontent !!
-bannercontent: "Welcome back!"
-bannerlink: "/"
+bannercontent: "Follow us on Instagram!"
+bannerlink: "https://instagram.com/csartsnewspaper"
 
 url: "https://csartisan.org"
 
@@ -52,7 +52,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 10
+paginate: 13
 
 # baseurl
 baseurl: 
