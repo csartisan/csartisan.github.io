@@ -1,6 +1,6 @@
 # ↓ Site
 name: 'CSArtisan'
-description: 'The official website of the CSArts student newspaper. Explore CSArts related news stories.'
+description: 'Get the latest on CSArts Performances, Events, Updates, & More, or play the Weekly Mini Crossword!'
 logo: 'assets/images/thumbnail.png'
 # favicon: 'assets/images/favicon.ico'
 baseurl: '' 
