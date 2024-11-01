@@ -6,7 +6,7 @@ author: "Tara Terzic"
 categories: [ events ]
 image: ./assets/images/posts/caution-with-costumes.jpg
 imagecred: ""
-tags: [ sticky ]
+tags: [ ]
 ---
 Halloween is always exciting. It’s a time of festivities and fun costumes, but as everyone is preparing, there are some important things to remember regarding safety and cultural sensitivity. 
 

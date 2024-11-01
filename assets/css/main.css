@@ -158,10 +158,6 @@ blockquote {
 dfn {
   font-style: italic; }
 
-b,
-strong {
-  font-weight: bolder; }
-
 small {
   font-size: 80%; }
 
@@ -3335,10 +3331,10 @@ input[type="button"].btn-block {
 
 .navbar-brand {
   display: inline-block;
-  padding-top: 0.68rem;
+  padding-top: 0.75rem;
   padding-bottom: 0.68rem;
   margin-right: 1rem;
-  font-size: 1.15rem;
+  font-size: 1rem;
   font-weight: 900 ;
   line-height: inherit;
   white-space: nowrap; }

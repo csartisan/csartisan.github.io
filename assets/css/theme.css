@@ -2,6 +2,9 @@
  * Mundana Jekyll Theme (https://www.wowthemes.net/mundana-jekyll-theme/)
  */
 
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Serif:ital,opsz,wght@0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50,700;8..144,100,700&display=swap');
+
 body {
 	font-family: 'Atkinson Hyperlegible', sans-serif;
 	overflow-x:hidden;
@@ -207,8 +210,10 @@ a.text-dark:hover {
 }
 .navbar-brand {
 	margin-right:2rem;
-	font-size:1.55rem;
+	font-size:2rem;
     font-family:"Roboto Serif","Times New Roman",serif;
+	font-weight: 900;
+	font-variation-settings: "wdth" 50;
 }
 .dropdown-item {
 	font-weight:400;

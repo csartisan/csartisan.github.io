@@ -56,7 +56,7 @@
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarColor02" aria-controls="navbarColor02" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="navbar-collapse collapse" id="navbarColor02" style="">
+        <div class="navbar-collapse collapse" id="navbarColor02">
             <ul class="navbar-nav mr-auto d-flex align-items-center">
                {% include menu-header.html %}
             </ul>
@@ -73,7 +73,7 @@
     </div>
 
     {% if site.bannercontent %}
-    <div class="bg-lightblue border-top p-2 text-muted small">
+    <div class="bg-lightblue border-top mt-3 p-2 text-muted small">
             <div class="container">
             <div align="center" class="justify-content-between">
                 <div>
@@ -86,7 +86,7 @@
     {% endif %}
 
     <!-- Content -->
-    <main role="main" class="site-content" onload="console.log("hello")">
+    <main role="main" class="site-content" onload="console.log('hello')">
         {{ content }}
     </main>
 
