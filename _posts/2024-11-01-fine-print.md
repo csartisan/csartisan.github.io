@@ -6,7 +6,7 @@ author: "Noelle Lee"
 categories: [ essays ]
 image: ./assets/images/posts/fine-print.jpg
 imagecred: ""
-tags: [ sticky ]
+tags: [ ]
 ---
 Candy is a treat, but are all of its ingredients? Chew on the details of a few confusing compounds in popular Halloween candies, and see for yourself!
 
