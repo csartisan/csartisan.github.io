@@ -4,7 +4,7 @@
 title: "Winter Formal Recap"
 author: "Vana Kojikian"
 categories: [ events ]
-image: ./assets/images/posts/none/1.jpg
+image: ./assets/images/posts/none/5.jpg
 imagecred: ""
 tags: []
 ---

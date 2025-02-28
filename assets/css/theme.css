@@ -663,9 +663,14 @@ footer {
     margin-top:10px;
 }
 article {
-	font-size:20px;
+	font-size:1.25rem;
 	line-height:1.86;
     font-family:"Atkinson Hyperlegible";
+}
+@media (max-width: 768px) {
+	article {
+		font-size: 1.2rem;
+	}
 }
 .article-headline {
     font-family: "Roboto Serif",Times,"Times New Roman",serif;
