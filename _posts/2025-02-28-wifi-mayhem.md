@@ -2,7 +2,7 @@
 #http://docs.csartisan.org/docs/contributing/
 
 title: "Wifi Mayhem"
-author: "Delight Kim"
+author: "Delight Kim & Mariam Ghazaryan"
 categories: [ updates ]
 image: ./assets/images/posts/none/4.jpg
 imagecred: ""
