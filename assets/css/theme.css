@@ -209,10 +209,10 @@ a.text-dark:hover {
 	color:#fff !important;
 }
 .navbar-brand {
-	margin-right:2rem;
-	font-size:2rem;
-    font-family:"Roboto Serif","Times New Roman",serif;
+	margin-right: 2rem;
+	font-size: 2rem;
 	font-weight: 900;
+    font-family: "Roboto Serif","Times New Roman",serif;
 	font-variation-settings: "wdth" 50;
 }
 .dropdown-item {

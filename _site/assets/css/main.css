@@ -6,7 +6,7 @@
  */
 /* Atkinson Hyperlegible (400/Italic), Roboto Serif 700 */
 @import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Serif:ital,opsz,wght@0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:opsz,wdth,wght@8..144,50,700;8..144,100,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wdth,wght@0,8..144,50..150,100..900;1,8..144,50..150,100..900&display=swap');
 
 :root {
   --blue: #7832e2;
@@ -95,10 +95,7 @@ h1 {
   text-wrap: pretty;
   margin-top: 0;
   margin-bottom: 0.5rem; 
-  /* Variable Font Axis (Width) to match Print */
-  font-variation-settings:
-    "wdth" 50;
-  /**/
+  font-variation-settings: "wdth" 50;
 }
 
  h2 {
@@ -3335,7 +3332,7 @@ input[type="button"].btn-block {
   padding-bottom: 0.68rem;
   margin-right: 1rem;
   font-size: 1rem;
-  font-weight: 900 ;
+  font-weight: 900;
   line-height: inherit;
   white-space: nowrap; }
   .navbar-brand:hover, .navbar-brand:focus {
