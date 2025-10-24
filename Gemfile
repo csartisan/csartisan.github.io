@@ -1,3 +1,4 @@
+gem "rouge", "~> 3.30"
 source "https://rubygems.org"
 ruby RUBY_VERSION
 

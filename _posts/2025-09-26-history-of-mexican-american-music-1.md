@@ -6,7 +6,7 @@ author: "Henry Soderlind"
 categories: [ history ]
 image: ./assets/images/posts/mexican-american-music-1.jpg
 imagecred: "PBS"
-tags: [ sticky ]
+tags: [ ]
 ---
 The Mexican American influence on music today is undoubtedly impressive, as seen in Mexican American artists playing pop or rock that tops charts, or even Spanish language or Latino music styles that have made it into the listening habits of Americans. 
 

@@ -1,0 +1,21 @@
+---
+title: "History Of Mexican American Music - Part 2"
+author: "Henry Soderlind"
+categories: [ history ]
+image: ./assets/images/posts/history-of-mexican-american-music-part-2.jpg
+imagecred: ""
+tags: [ ]
+date: 2025-10-26 12:30:00
+---
+
+The era of 1960s and 1970s Mexican American music was significant. With the Chicano movement of the 1970s and national attention on Mexican Americans, musicians of this time reflected the era with their specific brand of music. Bands like El Chicano, Los Lobos are emblematic of this movement. While artists such as Linda Ronstadt and Santana were Main stage performers of this time, punk bands like The Zeros and Alice Bag, while less well-known, were highly influential.
+
+Los Lobos, El Chicano, and Santana are often regarded as the leading Mexican American bands of this era. Although these artists had unique sounds, they shared similar qualities, playing music reminiscent of American styles of soul and jazz with Latin influences. El Chicano, a band most prevalent during the 1970s, covered both Herbie Hancock, a prominent funk musician, and famous boleros like \"Sabor a Mi.\" El Chicano was a group influenced by the Chicano movement of the 70's. Their music was representative of the Mexican American identity, blending Latin salsa influences and reflecting the fight for representation within American Society. Los Lobos is another band similar to El Chicano. It also had jazz and Latin influences along with folk, country, and rock. A group of high school students from East LA formed the band. The founding members bonded over their shared weird affinity for country music. The band members loved classic country and folk singers, such as Ry Cooder. They also loved to cover many of Riche Valens\' songs. Much like the El Chicanos, Los Lobos were activists for the Chicano movement.
+
+Santana and Linda Ronstadt are two other artists of the time who represented Mexican Americans as large stars of the era. Santana, a guitarist and activist, was part of the 1970s rock movement, playing with Jerry Garcia of the Grateful Dead. Santana has had a long and successful solo career, producing hit songs such as \"Oye Como Va\" and \"Black Magic Woman.\" Later in his career, he was featured on Lauryn Hill\'s album, The Miseducation of Lauryn Hill, which is ranked as the number one album on Apple Music\'s list of the 100 best albums. Linda Ronstadt is a Grammy Lifetime Achievement Award winner who has performed across multiple genres, including rock, country, opera, and Latin Music. She was the first woman to have three consecutive platinum albums. Although Rondstandt did not celebrate her Mexican American identity until much later in her career, she was truly a pillar of Mexican American excellence during this time and beyond.
+
+Another less discussed area of music is the Mexican American punk scene. Primarily centered in East LA during the 1970s and spanning into the 1990s, there was a big Mexican American punk scene. Two of the best-known bands were The Zeros and The Bags. The Zeros from Chula Vista, California, were commonly referred to as the Mexican Ramones. They played large concerts in Los Angeles and San Diego while they were still in High School and were actually one of the first U.S. punk Bands. They played with The Clash and Devo. The lead singer and guitarist, Javier Escovedo, came from a musical family. His dad played in a mariachi band and passed his passion to all of his 13 children. Javier\'s older brothers played with Santana and Malo. The Zeros\' music library is limited, but I highly recommend that all readers check them out. Their style feels ahead of its time.
+
+Alice Bag, on the other hand, was from East Los Angeles and created her own career as Alice Bag as well as a band called The Bags. She was a part of a wave of California punk artists that included Black Flag, X, and the Germs. Both of her parents were Mexican Immigrants. As with many Chicanos her age, Bag's father immigrated through the Braseros program. Her experience as a Mexican American influenced her to be an activist and to come up with a style known as Punk-Chera. A blend of punk and ranchera performances.
+
+These artists were not only impactful to Mexican Americans during their time but to the music as a whole, evidenced by their awards, social commentary, influence, and prevalence today.
