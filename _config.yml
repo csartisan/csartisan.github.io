@@ -52,7 +52,7 @@ markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 11
+paginate: 13
 
 # baseurl
 baseurl: 
