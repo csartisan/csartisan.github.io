@@ -1,7 +1,7 @@
 ---
 title: "Matcha: Cultural Drink or Social Media Prop?"
-author: "Noelle Lee"
-categories: [ student-life]
+author: "Jessica Pang"
+categories: [ student-life ]
 image: ./assets/images/posts/matcha-cultural-drink-or-social-media-prop.jpg
 imagecred: ""
 tags: [ sticky ]
