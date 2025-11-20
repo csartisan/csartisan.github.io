@@ -4,7 +4,7 @@ author: "Jessica Pang"
 categories: [ student-life ]
 image: ./assets/images/posts/matcha-cultural-drink-or-social-media-prop.jpg
 imagecred: ""
-tags: [ sticky ]
+tags: [ ]
 ---
 
 A recent online trend has created the label of "performative matcha lover" -- a term used to define people, most often male, who use matcha as a way to appear more sensitive and feminist to appeal to women. This viewpoint, however, more often than not, does not truly explore the significance behind matcha itself.

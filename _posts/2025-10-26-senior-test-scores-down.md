@@ -1,7 +1,7 @@
 ---
 title: "Senior Test Scores Down"
 author: "Karina Yue"
-categories: []
+categories: [ academics ]
 image: ./assets/images/posts/senior-test-scores-down.jpg
 imagecred: ""
 tags: [ academics ]

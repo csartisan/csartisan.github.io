@@ -1,7 +1,7 @@
 ---
 title: "Sports? At An Art School?"
 author: "Leia Vanackeren"
-categories: []
+categories: [ events ]
 image: ./assets/images/posts/none/6.jpg
 imagecred: ""
 tags: [ student-life ]

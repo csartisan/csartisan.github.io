@@ -1,0 +1,18 @@
+---
+title: "History of Mexican American Music - Part 3"
+author: "Henry Soderlind"
+categories: [ history ]
+image: ./assets/images/posts/mexican-american-music-3.jpg
+imagecred: "Secret Los Angeles"
+tags: [ sticky ]
+---
+
+The 1980s and 1990s saw Mexican American musicians break through into a variety of popular music genres in ways past generations had not. Some of the biggest artists of the era were Rage Against the Machine, Selena, Linda Ronstadt, and Ozomatli. All of whom built on the foundations of artists who had come before them. Mexican American musicians were truly mainstream. Linda Ronstadt, whose career began in the sixties as a folk singer, made the cover of Rolling Stone Magazine as a rock singer. It is challenging to characterize this era with a single sound or type of artist. Ozomatli was a funk band, Selena was the Queen of Tejano music, and Rage Against the Machine was a multi-style band with politically charged lyrics. Funny enough, the different styles of these musicians are in direct relation to artists of the past. At this stage of history, a throughline can be seen from past artists. In this article, I aim to highlight these artists and reflect on their impact on shaping the traditions of Mexican American Music.
+
+Linda Ronstadt, discussed in the previous article, was a popular mainstream artist well into the 1980s. She was a rock singer who was not known for her Mexican American heritage, similar to Riche Valens. However, in the late 1980s, she won numerous awards by finally embracing her Mexican American heritage and releasing an album in Spanish, "Canciones de Mi Padre". She spoke of the difficulty of getting her record label to agree to produce the album. Ronstandt fought to have it released, as it honored her father and the music she grew up listening to on her family’s ranch. She described making the album as a vital part of her artistic journey. 
+
+Rage Against the Machine, although not being an entirely Mexican American band, had a lead singer who was mixed-race and proud of his Mexican American heritage. The band even released a track called “People of the Sun” about Mexicans. Rage Against the Machine, being a multi-styled musical band, can be seen as an evolution of the Zeros and their style of music, as well as their strong ties to Los Angeles. Ozmatlie has a similar relation to their predecessors. In many ways, Ozmatlie does have its own unique blend of jazz and even hip hop; however, it does share similarities with past Mexican American Funk Bands, like El Chicano. Ozamtlie builds upon the foundation set by El Chicano, creating a genre-defying sound.
+
+Selena is perhaps the most interesting and direct connection to Mexican American musicians of the past. She was a tejano artist who was considered equally as popular in the U.S. as she was in Mexico. Her fame was wide, and her music was classic. A strong comparison can be drawn between her and the artist, Lydia Mendoza. Selena was often referred to as the Queen of Tejano music, while Mendoza was believed to be the first queen of Tejano music and a pioneer of the style. Selena played a big role in popularizing the genre. Both artists also had the unique ability to capture audiences in both the U.S. and Mexico. 
+
+The 80s-90s were a time of modernizing tradition and building upon the legacies of those who came before. The artists of the 90s found mainstream fame and perfected genres of the past. Without this generation, the explosion of modern Mexican music in the modern era would not have occurred.

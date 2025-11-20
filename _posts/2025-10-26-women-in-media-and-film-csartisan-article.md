@@ -1,7 +1,7 @@
 ---
 title: "Housewife to Director: Women in Media"
 author: "Pippin Langdon"
-categories: []
+categories: [ essays ]
 image: ./assets/images/posts/housewife-to-director-women-in-media.jpg
 imagecred: ""
 tags: [ essays ]

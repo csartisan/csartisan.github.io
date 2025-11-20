@@ -1,7 +1,7 @@
 ---
 title: "Student Spotlight: Lexy's Nailsets"
 author: "Miranda Cervantes"
-categories: []
+categories: [ spotlight ]
 image: ./assets/images/posts/student-spotlight-lexys-nailsets.jpg
 imagecred: ""
 tags: [ misc ]
