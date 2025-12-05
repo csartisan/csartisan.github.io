@@ -7,10 +7,6 @@ imagecred: ""
 tags: []
 ---
 
-Written by Kat Bartholomaus
-
-**Julia Trinh: A Student Spotlight**
-
 Once the Friday school bell rings, most students can't wait to get home, take a nice warm shower, and nap through the whole weekend. For sophomore Julia Trinh, that's far from normal. Trinh spends her free time educating young minds and volunteering at hospitals, speaking about the dangers of drug use and teaching Sex Ed in a safe manner. As a former foster kid, Trinh shared that her passion for volunteering came from her family history, a family member she watched walk down the wrong path and got involved in drug use. Trinh spoke about her volunteering work and the type of work they put in.
 
 **What is your main goal for your extracurricular activities?**

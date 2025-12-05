@@ -7,8 +7,6 @@ imagecred: ""
 tags: []
 ---
 
-By Salvador
-
 The National Honors Society is a great way to spice up a college application while holding up the core pillars of CSArts. Applicants have learned whether or not they got in last month, and are beginning to add to their service hours.
 
 NHS focuses on its pillars: *Leadership*, exemplified through taking opportunities. Service, exemplified by the 25 service hours that members complete each semester, *Character*, demonstrated by following CSArt's core pillars, finally *Scholarship*, shown by maintaining a GPA of at least 3.5 GPA.
