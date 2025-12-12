@@ -1,7 +1,7 @@
 ---
 title: "The Hounds: A Band on the Rise"
 author: "Miranda Cervantes"
-categories: []
+categories: [spotlight]
 image: ./assets/images/posts/the-hounds.jpg
 imagecred: ""
 tags: []

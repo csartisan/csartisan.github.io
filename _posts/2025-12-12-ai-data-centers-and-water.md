@@ -1,7 +1,7 @@
 ---
 title: "AI Data Centers and Water"
 author: "Noelle Lee"
-categories: []
+categories: [essays]
 image: ./assets/images/posts/ai-data-centers-and-water-by-noelle-lee.jpg
 imagecred: ""
 tags: []

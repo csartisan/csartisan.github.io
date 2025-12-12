@@ -1,7 +1,7 @@
 ---
 title: "Bad Bunny Headlines at 2026 Super Bowl"
 author: "Karina Yue"
-categories: []
+categories: [ misc ]
 image: ./assets/images/posts/bad-bunny-headlines-at-2026-super-bowl.jpg
 imagecred: ""
 tags: []

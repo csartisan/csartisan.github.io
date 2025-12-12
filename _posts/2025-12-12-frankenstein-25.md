@@ -1,7 +1,7 @@
 ---
 title: "Frankenstein '25, A Review"
 author: "James Okon"
-categories: []
+categories: [ reviews ]
 image: ./assets/images/posts/frankenstein-25.jpg
 imagecred: ""
 tags: []

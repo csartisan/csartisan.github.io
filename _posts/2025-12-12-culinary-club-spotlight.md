@@ -1,7 +1,7 @@
 ---
 title: "Culinary Club Spotlight"
 author: "Leia Vanackeren"
-categories: []
+categories: [ student-life ]
 image: ./assets/images/posts/none/8.jpg
 imagecred: ""
 tags: []

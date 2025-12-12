@@ -1,7 +1,7 @@
 ---
 title: "Round n' Around: Restorative Circles"
 author: "Pippin Langdon"
-categories: []
+categories: [ student-life ]
 image: ./assets/images/posts/none/3.jpg
 imagecred: ""
 tags: []

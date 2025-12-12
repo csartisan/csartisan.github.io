@@ -1,7 +1,7 @@
 ---
 title: "A Comparative Look At Local Art Schools"
 author: "Natalie Lanza"
-categories: []
+categories: [ essays ]
 image: ./assets/images/posts/a-comparative-look-at-local-art-schools.jpg
 imagecred: ""
 tags: []

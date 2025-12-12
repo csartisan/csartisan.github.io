@@ -1,7 +1,7 @@
 ---
 title: "Holiday Consumerism"
 author: "Hannah Anderson"
-categories: []
+categories: [ essays ]
 image: ./assets/images/posts/none/7.jpg
 imagecred: ""
 tags: []

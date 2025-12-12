@@ -1,7 +1,7 @@
 ---
 title: "Student Creates Youtube Series"
 author: "Leia Vanackeren"
-categories: []
+categories: [spotlight]
 image: ./assets/images/posts/none/2.jpg
 imagecred: ""
 tags: []

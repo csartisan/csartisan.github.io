@@ -1,7 +1,7 @@
 ---
 title: "Phone And Fences A Policy Update"
 author: "Salvador Villagomez"
-categories: []
+categories: [ updates ]
 image: ./assets/images/posts/phone-and-fences-a-policy-update.jpg
 imagecred: ""
 tags: []

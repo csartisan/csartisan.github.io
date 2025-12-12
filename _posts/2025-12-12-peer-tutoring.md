@@ -1,7 +1,7 @@
 ---
 title: "Peer Tutoring: Showing Up is the First Step"
 author: "Jessica Pang"
-categories: []
+categories: [ academics ]
 image: ./assets/images/posts/peer-tutoring.jpg
 imagecred: ""
 tags: []

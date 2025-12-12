@@ -1,7 +1,7 @@
 ---
 title: "Why Is Gen Z Obsessed with the 2000s?"
 author: "Emma Stelzried"
-categories: []
+categories: [essays]
 image: ./assets/images/posts/none/1.jpg
 imagecred: ""
 tags: []

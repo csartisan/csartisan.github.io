@@ -1,7 +1,7 @@
 ---
 title: "Historic Democratic Wins"
 author: "Evyn Clayton"
-categories: []
+categories: [ updates ]
 image: ./assets/images/posts/none/4.jpg
 imagecred: ""
 tags: []
