@@ -4,7 +4,7 @@ author: "Henry Soderlind"
 categories: [ history ]
 image: ./assets/images/posts/mexican-american-music-3.jpg
 imagecred: "Secret Los Angeles"
-tags: [ sticky ]
+tags: [ ]
 ---
 
 The 1980s and 1990s saw Mexican American musicians break through into a variety of popular music genres in ways past generations had not. Some of the biggest artists of the era were Rage Against the Machine, Selena, Linda Ronstadt, and Ozomatli. All of whom built on the foundations of artists who had come before them. Mexican American musicians were truly mainstream. Linda Ronstadt, whose career began in the sixties as a folk singer, made the cover of Rolling Stone Magazine as a rock singer. It is challenging to characterize this era with a single sound or type of artist. Ozomatli was a funk band, Selena was the Queen of Tejano music, and Rage Against the Machine was a multi-style band with politically charged lyrics. Funny enough, the different styles of these musicians are in direct relation to artists of the past. At this stage of history, a throughline can be seen from past artists. In this article, I aim to highlight these artists and reflect on their impact on shaping the traditions of Mexican American Music.
