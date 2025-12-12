@@ -1,10 +1,10 @@
 ---
 #http://docs.csartisan.org/docs/contributing/
 
-title: "History Of Mexican American Music - Part 2"
+title: "History Of Mexican American Music - Part 4"
 author: "Henry Soderlind"
 categories: [ history ]
-image: ./assets/images/posts/none/1.jpg
+image: ./assets/images/posts/history-of-mexican-american-music-part-4.jpg
 imagecred: ""
 tags: [ sticky ]
 ---
