@@ -7,8 +7,8 @@ comments: false
 sitemap: false
 ---
 
-Abigail Risdon - Co-Managing Editor
-Evyn Clayton - Co-Managing Editor
+Karina Yue - Co-Managing Editor
+Mariam Ghazaryan - Co-Managing Editor
 Octavia Roberts - Co-Managing Editor, Web Developer
 
 We, the CSArtisan, are an official student-produced publication. As an entity, we aim to serve as a designated open, public forum for freedom of expression for students to freely disseminate information and express their ideas. Under the rights delegated by the First Amendment and California Education Code 48907, we operate without prior review and produces content that reflects the views of the student body (within legal and ethical bounds).
