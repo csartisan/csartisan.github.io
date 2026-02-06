@@ -9,6 +9,6 @@ content:
       - { name: author, label: Author, type: string, required: true }
       - { name: category, label: Category, type: string, required: true, default: [misc] }
       - { name: image, label: Image, type: image, required: true }
-      - { name: jumbotron, label: Jumbotron, type: boolean, required: true }
+      - { name: jumbotron, label: Jumbotron, type: boolean }
       - { name: date, label: Date, type: date, required: false }
       - { name: body, label: Body, type: rich-text, required: true }
