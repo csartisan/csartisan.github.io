@@ -1,1 +1,8 @@
 media: assets/images
+content:
+  - name: articles
+    label: Articles
+    path: src/_posts
+    type: collection
+    fields: 
+      - { name: category, label: Category, type: string, required: true, default: [misc] }
