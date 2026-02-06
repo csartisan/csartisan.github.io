@@ -1,0 +1,11 @@
+{
+    "schedule": "daily", // daily|weekly|monthly
+    "ignoredFiles": [
+        "assets/images/*.*",
+        "assets/images/comics/*",
+        "assets/images/puzzles/*",
+        "assets/favicon/*",
+    ],
+    "aggressiveCompression": "true",
+    "minKBReduced": 500, // delay new prs until size reduction meets this threshold (default to 10)
+}
