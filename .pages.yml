@@ -15,7 +15,7 @@ content:
         default: [ misc ]
         options:
           # ALL CATEGORIES
-          values: [ Events, Productions, Academics, Conservatory, Student-Life, Campus, Updates, Reviews, Spotlight, Essays ]
+          values: [ Updates, Academics, Conservatory, Events, Productions, Student-Life, Campus, Reviews, Spotlight, Essays ]
       - { name: image, label: Image, type: image, required: true }
       - { name: date, label: Date, type: date, required: false }
       - { name: body, label: Body, type: rich-text, required: true }
