@@ -2,6 +2,7 @@ media: assets/images
 content:
   - name: articles
     label: Articles
+    # PATH TO ARTICLES
     path: _posts
     type: collection
     fields: 
@@ -13,6 +14,7 @@ content:
         required: true
         default: [ misc ]
         options:
+          # ALL CATEGORIES
           values: [ Events, Productions, Academics, Conservatory, Student-Life, Campus, Updates, Reviews, Spotlight, Essays ]
       - { name: image, label: Image, type: image, required: true }
       - { name: date, label: Date, type: date, required: false }
