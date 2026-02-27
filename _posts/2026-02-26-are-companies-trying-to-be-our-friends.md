@@ -2,7 +2,7 @@
 title: Are Companies Trying to Be Our Friends?
 author: Pippin Langdon
 categories: Essays
-image: /assets/images/Are Companies Trying to Be Our Friends_.png
+image: ./assets/images/posts/Are\ Companies\ Trying\ to\ Be\ Our\ Friends_.png
 date: 2026-02-27
 ---
 Scroll through social media for a few minutes and you might notice something interesting: brands joking in comment sections, reposting videos about hot social issues, and marketing using informal language and internet humor. Large corporations are increasingly trying to present themselves as friends—relatable, funny, and human. While some consumers see these actions as harmless, others argue they deserve more scrutiny.

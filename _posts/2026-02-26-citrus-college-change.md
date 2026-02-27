@@ -2,7 +2,7 @@
 title: Citrus College Change
 author: Ava Barrios & Mariam Ghazaryan
 categories: Academics
-image: /assets/images/posts/none/1.jpg
+image: ./assets/images/posts/none/1.jpg
 date: 2026-02-27
 ---
 When students returned from winter break, many expected to continue taking their Citrus College classes, but found out that the program imploded while school was off.  

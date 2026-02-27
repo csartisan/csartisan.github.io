@@ -2,7 +2,7 @@
 title: Black History Month Centenary
 author: Pippin Langdon
 categories: Essays
-image: /assets/images/Black History Month Centenary.jpg
+image: ./assets/images/posts/Black\ History\ Month\ Centenary.jpg
 ---
 This February marks the 100th anniversary of celebrating trailblazers, innovations, and the important historical activism of Black individuals. Black History Month started in 1976 and was formally known as “Black History Week,” created by Dr. Carter G. Woodson. It was held between Abraham Lincoln and abolitionist Frederick Douglass’ birthdays, both who were vitally important to fighting oppression. Lincoln’s Emancipation Proclamation helped to free enslaved individuals from confederate states. Frederick Douglass, a former slave and abolitionist, wrote an important autobiography that detailed the life of an abolitionist. 
 

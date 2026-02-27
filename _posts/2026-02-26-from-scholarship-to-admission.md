@@ -2,7 +2,7 @@
 title: From Scholarship To Admission
 author: Pippin Langdon
 categories: Academics
-image: /assets/images/From Scholarships to Admission.png
+image: ./assets/images/posts/From\ Scholarships\ to\ Admission.png
 date: 2026-02-27
 ---
 With college on the horizon, juniors are focused on good grades, scholarships or extracurriculars, and figuring out their future interests. Recent scholarship opportunities, pre-college summer programs, and college-major courses have created a spark in the young minds of aspiring college students. There are thousands of these unique chances for all grades, not just juniors, that are worth checking out. Mindy Shiroma, one of CSArts’ counselors, focuses on supporting students with college applications, course selections, and applying for scholarships.

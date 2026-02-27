@@ -2,7 +2,7 @@
 title: Create, Connect, Care Challenge
 author: Ivania Lepe Espitia
 categories: Events
-image: /assets/images/posts/none/4.jpg
+image: ./assets/images/posts/none/4.jpg
 ---
 What if your creativity were able to make a global impact on how people perceive the topic of mental health and win you up to $500? 
 

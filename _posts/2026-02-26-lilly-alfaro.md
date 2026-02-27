@@ -2,7 +2,7 @@
 title: Remembering Lilly Alfaro
 author: James N. Okon
 categories: Spotlight
-image: /assets/images/lilly-alfaro.jpeg
+image: ./assets/images/posts/lilly-alfaro.jpeg
 date: 2026-02-27 12:30:00
 ---
 How do I remember Lilly? That’s the question that has been ruminating in my mind for the last few weeks without much warning and with my resistance. This is what I have so far: I was sitting in the back of Mr. Skinner's economy class, my mind wandering off, when a girl during some free time, asked me for the three playing cards on my table. I gave them to her and saw she was building her own house of cards. A few days later, I sat with her as she continued construction of her card castle. I did not pay much attention, but I did notice her kind smile and focused eyes, communicating to me she was enjoying herself. And maybe I would have asked why she was building it, or anything at all, if I would have known this would be my last moment with Lilly. 

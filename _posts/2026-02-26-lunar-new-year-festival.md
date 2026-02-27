@@ -2,7 +2,7 @@
 title: Lunar New Year Festival
 author: Karina Yue
 categories: Events
-image: /assets/images/posts/none/7.jpg
+image: ./assets/images/posts/none/7.jpg
 date: 2026-02-27
 ---
 At CSArts, the Asian American and Pacific Islander/Chinese Culture Club commemorated the Lunar New Year by hosting a festival. Students and staff from all backgrounds were invited to learn, connect, and celebrate.
