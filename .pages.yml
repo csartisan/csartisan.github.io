@@ -1,4 +1,4 @@
-media: assets/images
+media: assets/images/posts
 content:
   - name: articles
     label: Articles
