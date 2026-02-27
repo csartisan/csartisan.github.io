@@ -2,7 +2,7 @@
 title: Safe Crossing
 author: Noelle Lee
 categories: Campus
-image: /assets/images/posts/none/8.jpg
+image: /assets/images/Graphic Safe Crossing by Noelle Lee.jpg
 date: 2026-02-27
 ---
 Jaywalking is legal in California, but it’s not always safe. Many students cross Central Ave. in the midst of traffic, or at street corners without a crossing guard. 
