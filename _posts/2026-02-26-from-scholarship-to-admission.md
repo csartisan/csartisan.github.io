@@ -1,0 +1,14 @@
+---
+title: From Scholarship To Admission
+author: Pippin Langdon
+categories: Academics
+image: /assets/images/From Scholarships to Admission.png
+date: 2026-02-27
+---
+With college on the horizon, juniors are focused on good grades, scholarships or extracurriculars, and figuring out their future interests. Recent scholarship opportunities, pre-college summer programs, and college-major courses have created a spark in the young minds of aspiring college students. There are thousands of these unique chances for all grades, not just juniors, that are worth checking out. Mindy Shiroma, one of CSArts’ counselors, focuses on supporting students with college applications, course selections, and applying for scholarships.
+
+Naviance and CollegeBoard are two of the most crucial resources students use when college searching or looking for scholarships. Every month, our school counselors send out an email with articles, focused on everything college prep: financial aid & scholarships, apps, and even SAT or ACT testing. According to Shiroma, there are thousands of pre-college summer programs available to students who want to participate in a college level course. “If students are interested in spending time on a specific college campus, I would recommend going on the college’s website and searching for their “pre-college” programs,” Shiroma said. Many of these colleges also offer scholarships to these programs.
+
+Unfortunately, financial cost heavily affects a student's choice when picking college or applying for scholarships. Shiroma opts to recommend more free and low-cost options over what she calls “pay-to-play,” noting that private schools programs for high school students are pretty pricey. For STEM-oriented students, Shiroma recommends the University of California’s COSMOS program. For art-focused students, she suggests the California State Summer School of Arts (CSSSA). “For free options, I would recommend taking a community college class during the summer.” Colleges in the LA Community College District offer free noncredit courses and UCLA offers a six week scholarship program for 10th and 11th graders.  With students interested in studying abroad, many programs like CIEE offer scholarships and are always worth looking into.
+
+It’s important to note that each college summer school program has their own registration timeline and process, so always check early and start the process once it opens. The requirements for enrolling in these programs vary, so always be sure to check beforehand. Some may ask for your high school transcript, a personal statement, or an application. Some may even offer you their own scholarships for those who have financial aid.
