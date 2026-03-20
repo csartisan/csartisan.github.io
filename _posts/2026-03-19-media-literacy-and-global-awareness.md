@@ -2,7 +2,8 @@
 title: Media Literacy and Global Awareness
 author: Mariam Ghazaryan
 categories: Essays
-image: /assets/images/posts/media-literacy-and-golbal-awareness.jpg
+image: /assets/images/posts/media-literacy-and-global-awareness.jpg
+date: 2026-03-20
 ---
 Has it happened to you, where you lay in bed, scrolling on social media, and you stumble upon information that makes you stop…and think…and the next day, you realize that it was all fake? All rumors? All A.I? Well, a club at CSArts can help change that!
 
