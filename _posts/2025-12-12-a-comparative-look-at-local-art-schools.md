@@ -4,7 +4,7 @@ author: "Natalie Lanza"
 categories: [ essays ]
 image: ./assets/images/posts/a-comparative-look-at-local-art-schools.jpg
 imagecred: ""
-tags: []
+tags: [ featured ]
 ---
 
 In Southern California, the entertainment and arts capital of the world, several high schools compete to train the future generation of artists.compete to be the top arts school training the best of the best high school artists,???

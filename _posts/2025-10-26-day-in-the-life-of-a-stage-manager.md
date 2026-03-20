@@ -4,7 +4,7 @@ author: "Hannah Anderson"
 categories: [ conservatory ]
 image: ./assets/images/posts/day-in-the-life-of-a-stage-manager.jpg
 imagecred: ""
-tags: []
+tags: [ featured ]
 date: 2025-10-26 12:10:00
 ---
 

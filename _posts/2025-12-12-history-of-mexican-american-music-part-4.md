@@ -6,7 +6,7 @@ author: "Henry Soderlind"
 categories: [ history ]
 image: ./assets/images/posts/history-of-mexican-american-music-part-4.jpg
 imagecred: ""
-tags: [  ]
+tags: [ featured ]
 ---
 2000s-present
 
