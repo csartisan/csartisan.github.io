@@ -1,0 +1,20 @@
+---
+title: Women and Academic Validation
+author: Pippin Langdon
+categories: Essays
+image: /assets/images/posts/none/10.jpg
+date: 2026-03-20
+---
+For much of history, women were denied access to education. In many societies, education was considered unnecessary and dangerous for women to have. While large progress has been made, the struggle for equal education continues. For example, modern policies from Taliban authorities in Afghanistan still barring many women from school remind us that education for women remains a contested right in some parts of the world.
+
+Despite this, the narrative surrounding women and education has dramatically changed. Social media and educational initiatives are promoting female empowerment through academic ambition. Young women today are encouraged to pursue higher education and leadership roles more than ever before.
+
+Statistically, women are not only participating in education—they are excelling. 2025 gender- gap GPA research from the American Institute for Boys and Men (AIBM) reported the average GPA for girls is 3.23 compared to 3.0 for boys. Women are also enrolling in and graduating from college at higher rates. An August 2024 Forbes article titled “Women Continue to Outpace Men in College Enrollment and Graduation,” reported that nationwide, women make up about 60% of undergraduate college students compared to men who make up about 40%.
+
+In spite of these academic gains, research suggests women are experiencing more stress regarding academics compared to men. According to 2023 data from Gallup, an analytics company, 72% of female students reported high stress versus 56% of male students. Some sources suggest female students are more likely to seek mental health support resources when they experience stress, while male students may avoid them due to traditional expectations regarding masculinity and independence, which they explain why there is such a notable difference in the data. Nonetheless, most researchers link this gap to perfectionism and societal pressures—girls may feel higher pressure to prove themselves as competent compared to men because of historically patriarchal social structures. This means women may often see academic achievement as evidence of their worth more than a simple measure of learning. In other words, many women feel they need to work harder—not just to succeed, but to get equal recognition for their success.
+
+Furthermore, female students may carry responsibilities alongside their academic work. A 2020 survey from the National Center for Education Statistics found that in full-time undergraduate students, roughly 43% of females were employed compared to 35% of males. Additionally, women are more likely to handle caregiver roles while in school, often rooted in traditional gender norms. 
+
+A cultural example of this phenomenon is in the character Hermione Granger from the _Harry Potter_ series by J. K. Rowling. Throughout the series, Hermione is consistently the most academically prepared and intellectually resourceful member of her friend group, yet her intelligence is frequently dismissed and mocked. For example, Professor Snape often treats her participation in class with irritation, and classmates regularly label her as a bossy “know-it-all.” Despite repeatedly using her knowledge and quick thinking to save her friends, her dedication to learning is underappreciated and unadmired. Her experience mirrors a broader cultural pattern where highly capable girls are criticized for their efforts to succeed.
+
+Overall, the progress women have made in education is incredible—they are increasingly pursuing ambitious academic and professional paths. However, their achievements should not come at the expense of outdated societal pressures. Ideally, the future of education will not only celebrate girls’ academic success but also value it without requiring them to work twice as hard for the same recognition.
