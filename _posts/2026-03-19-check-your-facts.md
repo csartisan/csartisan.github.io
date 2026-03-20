@@ -2,7 +2,7 @@
 title: Check Your Facts
 author: James N. Okon
 categories: Academics
-image: /assets/images/posts/fact-checking.jpg
+image: /~/assets/images/posts/fact-checking.jpg
 date: 2026-03-20
 ---
 The thought of universal knowledge would have been nothing but a wishful fantasy thirty years ago and in some ways that did not stop being true. Knowledge implies accuracy, and the information you see online has more of a chance to be inaccurate than accurate. This is why fact checking has become more important than ever, especially when it involves AI. 
