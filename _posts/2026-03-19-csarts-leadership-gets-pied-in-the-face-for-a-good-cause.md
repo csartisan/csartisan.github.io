@@ -2,7 +2,7 @@
 title: CSArts Leadership Gets Pied in the Face for a Good Cause
 author: Blair Jordan
 categories: Events
-image: /assets/images/posts/none/7.jpg
+image: /assets/images/posts/img-7518.jpg
 date: 2026-03-20
 ---
 Each year Pie day is celebrated on March 14th (3.14), but this year Pie Day came early, with both our principal and assistant principal being pied in the face for a good cause.  
