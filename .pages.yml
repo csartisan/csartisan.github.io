@@ -30,6 +30,6 @@ content:
         label: Order
         type: number
         options:
-          min: 1
+          min: 0
           max: 4
       - { name: body, label: Body, type: rich-text, required: true }
