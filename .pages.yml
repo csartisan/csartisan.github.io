@@ -19,12 +19,15 @@ content:
       - { name: image, label: Image, type: image, required: true }
       - { name: date, label: Date, type: date, required: true }
       - name: jumbotron
+        label: Jumbotron
         type: boolean
         default: false
       - name: featured
+        label: Featured
         type: boolean
         default: false
       - name: order
+        label: Order
         type: number
         options:
           min: 1
