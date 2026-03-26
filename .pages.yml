@@ -18,4 +18,15 @@ content:
           values: [ Updates, Academics, Conservatory, Events, Productions, Student-Life, Campus, Reviews, Spotlight, Essays ]
       - { name: image, label: Image, type: image, required: true }
       - { name: date, label: Date, type: date, required: true }
+      - name: jumbotron
+        type: boolean
+        default: false
+      - name: featured
+        type: boolean
+        default: false
+      - name: order
+        type: number
+        options:
+          min: 1
+          max: 4
       - { name: body, label: Body, type: rich-text, required: true }
