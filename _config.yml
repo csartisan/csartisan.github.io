@@ -38,8 +38,10 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: 
-      avatar: 
+      author:
+      avatar:
+      jumbotron: false
+      featured: false
       
   # ↓ all pages
   - scope:

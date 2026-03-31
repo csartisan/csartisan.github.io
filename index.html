@@ -23,10 +23,18 @@ image: /assets/images/opengraph.png
     
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+<!-- Top 4 slots are driven by front matter `order: 1-4`. When multiple posts share
+     the same order value, the most recently dated one wins (site.posts is newest-first). -->
+{% assign top_posts = "" | split: "" %}
+{% for i in (1..4) %}
+  {% assign slot = site.posts | where: "order", i | first %}
+  {% assign top_posts = top_posts | push: slot %}
+{% endfor %}
 <div class="row remove-site-content-margin">
-    
-    <!-- latest post -->
-    {% assign latest_post = site.posts[0] %}
+
+    <!-- slot 1 (order: 1) -->
+    {% assign latest_post = top_posts[0] %}
+    {% if latest_post %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
@@ -61,11 +69,12 @@ image: /assets/images/opengraph.png
     </div>
     </div>
     </div>
-    
+    {% endif %}
+
     <div class="col-md-6">
-        
-        <!-- second latest post -->
-        {%- assign second_post = site.posts[1] -%}        
+
+        <!-- slot 2 (order: 2) -->
+        {%- assign second_post = top_posts[1] -%}
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
@@ -98,8 +107,8 @@ image: /assets/images/opengraph.png
                 </div>
             </div>
         
-        <!-- third latest post -->
-        {%- assign third_post = site.posts[2] -%}        
+        <!-- slot 3 (order: 3) -->
+        {%- assign third_post = top_posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
@@ -132,8 +141,8 @@ image: /assets/images/opengraph.png
                 </div>
             </div>
         
-        <!-- fourth latest post -->
-        {%- assign fourth_post = site.posts[3] -%}        
+        <!-- slot 4 (order: 4) -->
+        {%- assign fourth_post = top_posts[3] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
@@ -170,9 +179,9 @@ image: /assets/images/opengraph.png
     
 </div>
 
-<!-- Jumbotron - add sticky tag to the post you want to highlight here - tags: [sticky] -->
-{% for post in site.posts %} 
-{% if post.tags contains "sticky" %}
+<!-- Jumbotron - set `jumbotron: true` in post front matter to highlight it here -->
+{% for post in site.posts %}
+{% if post.jumbotron == true %}
 <div class="jumbotron jumbotron-fluid jumbotron-home pt-0 pb-0 mt-3 mb-2rem bg-lightblue position-relative" id="jumbotron">
     <div class="pl-4 pr-0 h-100 tofront">
         <div class="row justify-content-between">
