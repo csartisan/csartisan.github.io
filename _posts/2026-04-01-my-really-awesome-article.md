@@ -1,5 +1,5 @@
 ---
-title: My Really Awesome Article
+title: Noelle's Really Awesome Article
 author: Octavia Roberts
 categories: Events
 image: /assets/images/posts/cat-demonstrating-static-cling-with-styrofoam-peanuts-upscayled-4x.jpg
