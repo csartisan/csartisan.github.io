@@ -3,7 +3,7 @@ title: "Lunar New Year Zine "
 author: Jessica Pang
 categories: Events
 image: /assets/images/posts/none/7.jpg
-date: 2026-04-16
+date: 2026-04-17
 jumbotron: false
 featured: false
 ---
