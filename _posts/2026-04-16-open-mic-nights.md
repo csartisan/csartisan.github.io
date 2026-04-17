@@ -3,7 +3,7 @@ title: Open Mic Nights
 author: Jubilee Sung
 categories: Events
 image: /assets/images/posts/open-mic-nights.jpg
-date: 2026-04-16
+date: 2026-04-17
 jumbotron: false
 featured: false
 ---
