@@ -1,5 +1,5 @@
 ---
-title: Survey Shows Student’s Hopes for CSArts’ Future
+title: Survey Shows Students' Hopes for CSArts’ Future
 author: Jessica Pang
 categories: Updates
 image: /assets/images/posts/class-conservatory-google-form.jpg
