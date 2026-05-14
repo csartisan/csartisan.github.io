@@ -5,7 +5,7 @@ categories: Updates
 image: /assets/images/posts/class-conservatory-google-form.jpg
 date: 2026-05-15
 jumbotron: true
-featured: false
+featured: true
 ---
 The data from a recent survey created by a CSArtisan journalist delivers the CSArts-SGV administration rare insight on student perspectives for future classes and conservatory interests. 
 
