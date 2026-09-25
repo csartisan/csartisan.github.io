@@ -6,7 +6,6 @@ image: /assets/images/posts/none/7.jpg
 date: 2026-09-25
 jumbotron: false
 featured: false
-order: 0
 ---
 Many classrooms use devices as a learning tool. But Teachers across the world are having to remake their lesson plans due to students abusing AI. It's one click away for someone to generate an essay. 
 
