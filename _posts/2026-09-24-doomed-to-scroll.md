@@ -3,7 +3,7 @@ title: Doomed to Scroll!
 author: Angelina Grimaldi and Pippin Langdon
 categories: Essays
 image: /assets/images/posts/Technology_s affect on students-1.jpg
-date: 2026-09-24
+date: 2026-09-25
 jumbotron: false
 featured: false
 ---
