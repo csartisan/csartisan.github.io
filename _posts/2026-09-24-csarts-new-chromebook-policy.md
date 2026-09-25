@@ -1,5 +1,5 @@
 ---
-title: Is CSArts' New Chromebook Policy Working
+title: Is CSArts' New Chromebook Policy Working?
 author: Ayleen Park
 categories: Updates
 image: /assets/images/posts/CSArts New Chromebook Policy.png
