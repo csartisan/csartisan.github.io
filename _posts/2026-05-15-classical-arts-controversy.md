@@ -3,6 +3,7 @@ title: Classical Arts Controversy
 author: Karina Yue
 categories: Essays
 image: /assets/images/posts/classical-arts-controversy.jpg
+imagecred: ""
 date: 2026-05-15
 ---
 Classical arts has always been a space for expression, but its relevance in modern culture, especially with artificial intelligence and increasing commercialization, has recently sparked controversy among artists and audiences.
