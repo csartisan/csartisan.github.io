@@ -3,6 +3,7 @@ title: Women of Color in Film
 author: Mariam Ghazaryan and Pippin Langdon
 categories: Events
 image: /assets/images/posts/womeninoscars.jpg
+imagecred: ""
 date: 2026-04-17
 ---
 The OCSARS, dazzled by cameras flashing and extravagant attire, also graced the night with the strength and presence of women and women of color. 
