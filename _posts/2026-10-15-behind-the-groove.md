@@ -6,6 +6,7 @@ image: /assets/images/posts/behind-the-groove (1).jpg
 date: 2026-10-16
 jumbotron: false
 featured: false
+order: 1
 ---
 Jazz is the backbone of the instrumental music community at CSArts. One section is getting bigger than just music, and building something complex and limitless.
 
