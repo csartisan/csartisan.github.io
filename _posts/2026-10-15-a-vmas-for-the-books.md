@@ -3,7 +3,7 @@ title: A VMAs for the Books
 author: Mila Elizalde
 categories: Events
 image: /assets/images/posts/A VMAs for the Books.jpg
-date: 2026-10-15
+date: 2026-10-16
 jumbotron: false
 featured: false
 ---
