@@ -17,7 +17,9 @@ The following checklist will make sure test-takers are prepared for test day. Yo
 - Your current-year physical student ID card OR a printed document from your counselor that displays your student information. 
 - A portable charger or a charging cord
 - A writing utensil
-- (Optional) Water and a snack to consume only during the ten-minute break between sections. 
+- (Optional) Water and a snack to consume only during the ten-minute break between sections.
+
+
 
 Scratch paper is provided by the proctor in the testing site, and all electronic devices besides the device that the test will be taken on must be put away or will be collected before the test begins. Accommodations should have been submitted at least seven weeks before the test date. For our October 17 PSAT, the deadline was August 29th. 
 
