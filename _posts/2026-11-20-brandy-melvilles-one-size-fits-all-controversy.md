@@ -2,7 +2,7 @@
 title: Brandy Melville’s “One-Size Fits All” Controversy
 author: Luna Borboa
 categories: Essays
-image: /assets/images/posts/one-person-s-trash-another-person-s-treasure.jpg
+image: /assets/images/posts/screenshot-2026-11-20-at-8-04-35-pm.jpg
 date: 2026-11-20
 jumbotron: false
 featured: false
