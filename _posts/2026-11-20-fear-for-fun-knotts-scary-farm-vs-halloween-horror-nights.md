@@ -21,4 +21,4 @@ However, both parks face large crowds thanks to the Halloween experience’s hig
 
 According to the US Universal Hollywood Community, Universal has responded to traffic congestion by making “Early Scare” passes, where they let guests enter the park early at 2 p.m., giving them access to select houses before the nighttime hits. With strategic scare attractions and packed attractions, Halloween should be about enjoying the scare and not putting others at risk.
 
-Photo Credit: TRIDENT
+Graphic Source: TRIDENT
