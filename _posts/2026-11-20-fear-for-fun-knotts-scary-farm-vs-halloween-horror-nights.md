@@ -2,7 +2,7 @@
 title: "Fear For Fun: Knotts Scary Farm VS. Halloween Horror Nights"
 author: Luna Borboa
 categories: Reviews
-image: /assets/images/posts/none/10.jpg
+image: /assets/images/posts/courtesy-of-trident-not-mine.jpg
 date: 2026-11-20
 jumbotron: false
 featured: false
@@ -20,3 +20,5 @@ Lower prices make parks like Knotts more accessible to different crowds, and wha
 However, both parks face large crowds thanks to the Halloween experience’s high demand, so ticket prices don’t determine the guest amount as much as they used to. 
 
 According to the US Universal Hollywood Community, Universal has responded to traffic congestion by making “Early Scare” passes, where they let guests enter the park early at 2 p.m., giving them access to select houses before the nighttime hits. With strategic scare attractions and packed attractions, Halloween should be about enjoying the scare and not putting others at risk.
+
+Photo Credit: TRIDENT
