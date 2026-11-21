@@ -15,4 +15,4 @@ When we look up skyward at our boundless universe, it stares back at us with the
 
 Lying concealed behind a pretty accessory, or what some may consider an itchy mess, is, in fact, something deeper that draws people in. Glitter reminds us that the smallest things can provide big laughs and great joy through the simple act of sharing, just like the stars freely sharing their light and infusing us with a sense of wonder. Perhaps, by inventing glitter and other shiny little things, humans were trying to capture a bit of the universe in an attempt to draw it closer. Or put another way, trying to lasso a little piece of heaven and bring it to us on Earth. The burden of possessing a sliver of heaven, however, is deciding what you choose to do with it.
 
-Photo Credits: NASA
+Photo Credit: NASA
