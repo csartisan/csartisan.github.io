@@ -2,7 +2,7 @@
 title: Why did Doctrine get temporarily removed from Overwatch?
 author: Michael Helms
 categories: Updates
-image: /assets/images/posts/none/7.jpg
+image: /assets/images/posts/screenshot-2026-11-20-at-8-32-07-pm.jpg
 date: 2026-11-20
 jumbotron: false
 featured: false
