@@ -1,5 +1,5 @@
 ---
-title: CSArts, Globally
+title: Study Abroad with CSArts
 author: Noah Staley
 categories: Campus
 image: /assets/images/posts/none/4.jpg
